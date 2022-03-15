@@ -34,13 +34,10 @@
     </ResourceCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="HelloWorld.cpp">
+    <ClCompile Include="ETC\HelloWorld.cpp">
       <Filter>소스 파일\ETC</Filter>
     </ClCompile>
-    <ClCompile Include="Test.cpp">
-      <Filter>소스 파일\Baekjoon\Base</Filter>
-    </ClCompile>
-    <ClCompile Include="NewFolder5\소스321.cpp">
+    <ClCompile Include="Baekjoon\Base\BJ_1000.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

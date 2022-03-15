@@ -1,10 +1,11 @@
 #include<iostream>
 using namespace std;
 
-int main() {
+int HelloWorld() {
 	
 	cout << "Hello C++!";
 
+	return 0;
 
 
 

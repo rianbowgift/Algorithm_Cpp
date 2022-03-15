@@ -139,9 +139,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="HelloWorld.cpp" />
-    <ClCompile Include="NewFolder5\소스321.cpp" />
-    <ClCompile Include="Test.cpp" />
+    <ClCompile Include="Baekjoon\Base\BJ_1000.cpp" />
+    <ClCompile Include="ETC\HelloWorld.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="resource.h" />
