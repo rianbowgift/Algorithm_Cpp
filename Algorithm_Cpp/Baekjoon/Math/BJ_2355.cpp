@@ -1,6 +1,7 @@
 #include<iostream>
-
-void main() {
+using namespace std;
+//½Ã±×¸¶
+int BJ_2355() {
 	long long a, b;
 	long long sum = 0;
 	long long  half = 0;
@@ -22,9 +23,9 @@ void main() {
 		sum = ((b + a) * (half + 1));
 	}
 	
-	
-	
 
 	std::cout << sum;
+
+	return 0;
 
 }
