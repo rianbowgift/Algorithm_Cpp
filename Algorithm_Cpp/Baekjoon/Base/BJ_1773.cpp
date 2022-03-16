@@ -7,6 +7,8 @@ int main() {
 
 	int* arr = new int[a];
 
+
+
 	for (int i = 0; i < a; i++) {
 		std::cin >> arr[i];
 		
