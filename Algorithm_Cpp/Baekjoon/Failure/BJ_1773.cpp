@@ -1,6 +1,6 @@
 #include<iostream>
 
-int main() {
+int BJ_1773() {
 	int a, b;
 	int sum = 0;
 	std::cin >> a >> b;
@@ -17,6 +17,7 @@ int main() {
 	std::cout << sum;
 
 	
+	return 0;
 
 
 
