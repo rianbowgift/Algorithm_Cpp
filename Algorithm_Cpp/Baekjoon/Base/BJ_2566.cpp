@@ -1,6 +1,6 @@
 #include<iostream>
 
-int main() {
+int BJ_2566() {
 
 
 	int arr[9][9];
