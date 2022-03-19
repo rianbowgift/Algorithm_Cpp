@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Baekjoon\Base\BJ_1000.cpp" />
+    <ClCompile Include="Baekjoon\Base\BJ_10992.cpp" />
     <ClCompile Include="Baekjoon\Base\BJ_2566.cpp" />
     <ClCompile Include="Baekjoon\Base\BJ_2783.cpp" />
     <ClCompile Include="Baekjoon\Failure\BJ_1773.cpp" />
