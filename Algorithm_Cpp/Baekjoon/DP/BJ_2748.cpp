@@ -1,13 +1,12 @@
 #include<iostream>
 using namespace std;
 
-int main()
+int BJ_2748()
 {
 	long long n;
 	cin >> n;
 
 	long long arr[91];
-	arr[0] = 0;
 	arr[1] = 1;
 	arr[2] = 1;
 
