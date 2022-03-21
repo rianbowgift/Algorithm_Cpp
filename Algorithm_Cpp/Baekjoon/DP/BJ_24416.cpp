@@ -4,6 +4,7 @@ int f[41];
 int count1 = 0;
 int count2 = 0;
 
+
 int fib(int n) {
     if (n == 1 || n == 2) {
         count1++;
