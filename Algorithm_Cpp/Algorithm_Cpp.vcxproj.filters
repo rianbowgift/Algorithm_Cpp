@@ -88,5 +88,8 @@
     <ClCompile Include="Baekjoon\DP\BJ_9625.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Baekjoon\DP\BJ_13301.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
