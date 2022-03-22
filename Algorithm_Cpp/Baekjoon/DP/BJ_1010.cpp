@@ -15,7 +15,7 @@ int dp_1010(int n, int m) {
 
 }
 
-int main() {
+int BJ_1010() {
 	int a;
 	cin >> a;
 
