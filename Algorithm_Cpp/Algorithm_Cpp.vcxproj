@@ -141,6 +141,7 @@
   <ItemGroup>
     <ClCompile Include="Baekjoon\Base\BJ_1000.cpp" />
     <ClCompile Include="Baekjoon\Base\BJ_10992.cpp" />
+    <ClCompile Include="Baekjoon\Base\BJ_15727.cpp" />
     <ClCompile Include="Baekjoon\Base\BJ_2557.cpp" />
     <ClCompile Include="Baekjoon\Base\BJ_2566.cpp" />
     <ClCompile Include="Baekjoon\Base\BJ_2783.cpp" />
