@@ -5,7 +5,7 @@ using namespace std;
 //string dp_9625[46];
 int dp_9625_a[46];
 int dp_9625_b[46];
-int main() {
+int BJ_9625() {
 	int k;
 	cin >> k;
 	int a=0, b=0;
