@@ -1,3 +1,4 @@
+/*
 #include<iostream>
 using namespace std;
 
@@ -42,3 +43,5 @@ int BJ_14916() {
 
 	return 0;
 }
+
+*/
