@@ -1,3 +1,5 @@
+/*
+
 #include<iostream>
 using namespace std;
 int f[41];
@@ -38,3 +40,5 @@ int BJ_24416() {
     return 0;
 
 }
+
+*/
