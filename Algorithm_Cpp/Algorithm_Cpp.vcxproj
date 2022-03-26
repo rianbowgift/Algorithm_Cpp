@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="BaaarkingDog\L2\times.cpp" />
     <ClCompile Include="Baekjoon\Base\BJ_1000.cpp" />
     <ClCompile Include="Baekjoon\Base\BJ_10992.cpp" />
     <ClCompile Include="Baekjoon\Base\BJ_11654.cpp" />
@@ -169,6 +170,7 @@
     <ClCompile Include="Baekjoon\DP\BJ_9656.cpp" />
     <ClCompile Include="Baekjoon\Failure\BJ_1773.cpp" />
     <ClCompile Include="Baekjoon\Base\BJ_2506.cpp" />
+    <ClCompile Include="Baekjoon\Graph\BJ_16173.cpp" />
     <ClCompile Include="Baekjoon\Math\BJ_2355.cpp" />
     <ClCompile Include="Baekjoon\Base\BJ_2530.cpp" />
     <ClCompile Include="ETC\HelloWorld.cpp" />
