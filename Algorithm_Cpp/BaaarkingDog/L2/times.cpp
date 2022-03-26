@@ -4,7 +4,7 @@ using namespace std;
 int main() {
 
 	int n = 100000;
-	int sum = 0;
+	long long sum = 0;
 	for (int i = 0; i < n; i++) {
 
 		if (i % 3 == 0) {
