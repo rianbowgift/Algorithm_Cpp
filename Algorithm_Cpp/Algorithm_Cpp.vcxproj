@@ -139,6 +139,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="BaaarkingDog\L2\MULMUL.cpp" />
+    <ClCompile Include="BaaarkingDog\L2\q4.cpp" />
+    <ClCompile Include="BaaarkingDog\L2\sumeq.cpp" />
     <ClCompile Include="BaaarkingDog\L2\times.cpp" />
     <ClCompile Include="Baekjoon\Base\BJ_1000.cpp" />
     <ClCompile Include="Baekjoon\Base\BJ_10992.cpp" />
