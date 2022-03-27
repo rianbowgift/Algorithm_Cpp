@@ -9,7 +9,7 @@ using namespace std;
 
 
 
-int main() {
+int BJ_10828() {
 	int n;
 	cin >> n;
 
