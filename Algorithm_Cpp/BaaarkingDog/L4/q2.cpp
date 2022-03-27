@@ -52,7 +52,7 @@ void erase_test() {
     traverse();
 }
 
-int main(void) {
+int l4_q2(void) {
     fill(pre, pre + MX, -1);
     fill(nxt, nxt + MX, -1);
     insert_test();
