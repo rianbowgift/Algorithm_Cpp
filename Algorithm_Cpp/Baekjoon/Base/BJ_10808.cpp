@@ -2,7 +2,7 @@
 #include<vector>
 using namespace std;
 
-int main() {
+int BJ_10808() {
 	string a;
 	cin >> a;
 	int arr[26];
