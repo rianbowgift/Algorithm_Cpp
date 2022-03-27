@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-int main() {
+int q4() {
 
 	int n;
 	cin >> n;

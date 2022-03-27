@@ -143,7 +143,10 @@
     <ClCompile Include="BaaarkingDog\L2\q4.cpp" />
     <ClCompile Include="BaaarkingDog\L2\sumeq.cpp" />
     <ClCompile Include="BaaarkingDog\L2\times.cpp" />
+    <ClCompile Include="BaaarkingDog\L3\q1.cpp" />
+    <ClCompile Include="BaaarkingDog\L3\q2.cpp" />
     <ClCompile Include="Baekjoon\Base\BJ_1000.cpp" />
+    <ClCompile Include="Baekjoon\Base\BJ_10808.cpp" />
     <ClCompile Include="Baekjoon\Base\BJ_10992.cpp" />
     <ClCompile Include="Baekjoon\Base\BJ_11654.cpp" />
     <ClCompile Include="Baekjoon\Base\BJ_14652.cpp" />
