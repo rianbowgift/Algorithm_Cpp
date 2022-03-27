@@ -145,6 +145,8 @@
     <ClCompile Include="BaaarkingDog\L2\times.cpp" />
     <ClCompile Include="BaaarkingDog\L3\q1.cpp" />
     <ClCompile Include="BaaarkingDog\L3\q2.cpp" />
+    <ClCompile Include="BaaarkingDog\L4\q1.cpp" />
+    <ClCompile Include="BaaarkingDog\L4\q2.cpp" />
     <ClCompile Include="Baekjoon\Base\BJ_1000.cpp" />
     <ClCompile Include="Baekjoon\Base\BJ_10808.cpp" />
     <ClCompile Include="Baekjoon\Base\BJ_10992.cpp" />
