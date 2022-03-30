@@ -35,15 +35,17 @@ int main() {
 				int temp_max = 0;
 				while (!Q.empty())
 				{
+					temp_max++;
 					pair<int, int> cur = Q.front();
+					vis[i][j] = 1;
 					Q.pop();
-
+					
 					//cout << "(" << cur.X << ", " << cur.Y << ") -> ";
 
 					for (int dir = 0; dir < 4; dir++) {
 						int nx = cur.X + dx[dir];
 						int ny = cur.Y + dy[dir];
-
+						
 						if (nx < 0 || nx >= n || ny < 0 || ny >= m) {
 							continue;
 						}
@@ -53,7 +55,7 @@ int main() {
 
 						vis[nx][ny] = 1;
 						Q.push({ nx,ny });
-						temp_max++;
+						
 					}
 
 				}
