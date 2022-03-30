@@ -10,7 +10,7 @@ int n, m;
 int dx[4] = { 1,0,-1,0 };
 int dy[4] = { 0,1,0,-1 };
 
-int main() {
+int BJ_1926() {
 	
 	cin >> n >> m;
 	int sum=0;
