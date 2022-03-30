@@ -40,6 +40,7 @@ int BJ_1926() {
 					vis[i][j] = 1;
 					Q.pop();
 					
+
 					//cout << "(" << cur.X << ", " << cur.Y << ") -> ";
 
 					for (int dir = 0; dir < 4; dir++) {
@@ -57,7 +58,7 @@ int BJ_1926() {
 						Q.push({ nx,ny });
 						
 					}
-
+					
 				}
 				sum++;
 				if (temp_max > max) {
