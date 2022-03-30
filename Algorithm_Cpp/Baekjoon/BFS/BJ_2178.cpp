@@ -1,5 +1,6 @@
 #include<iostream>
 #include<queue>
+#include<string>
 using namespace std;
 
 #define X first
@@ -20,7 +21,7 @@ int main() {
 		string temp;
 		cin >> temp;
 		for (int j = 0; j < m; j++) {
-			board[i][j] = (int)temp[j];
+			board[i][j] = temp[j]- '0';
 		}
 	}
 
