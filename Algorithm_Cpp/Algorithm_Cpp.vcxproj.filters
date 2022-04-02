@@ -187,5 +187,8 @@
     <ClCompile Include="Baekjoon\Recursion\BJ_11729.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Baekjoon\BackTracking\BJ_15649.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
