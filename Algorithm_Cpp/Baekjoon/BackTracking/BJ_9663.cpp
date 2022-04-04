@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-
+ 
 int n;
 int arr[100][100];
 bool used[100][100];
