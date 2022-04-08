@@ -202,5 +202,11 @@
     <ClCompile Include="Baekjoon\Base\BJ_1100.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="ETC\test.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Baekjoon\BackTracking\BJ_1182.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

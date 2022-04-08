@@ -147,6 +147,7 @@
     <ClCompile Include="BaaarkingDog\L3\q2.cpp" />
     <ClCompile Include="BaaarkingDog\L4\q1.cpp" />
     <ClCompile Include="BaaarkingDog\L4\q2.cpp" />
+    <ClCompile Include="Baekjoon\BackTracking\BJ_1182.cpp" />
     <ClCompile Include="Baekjoon\BackTracking\BJ_15649.cpp" />
     <ClCompile Include="Baekjoon\BackTracking\BJ_9663.cpp" />
     <ClCompile Include="Baekjoon\Base\BJ_1000.cpp" />
@@ -195,6 +196,7 @@
     <ClCompile Include="Baekjoon\Stack\BJ_10828.cpp" />
     <ClCompile Include="Baekjoon\Stack\BJ_4949.cpp" />
     <ClCompile Include="ETC\HelloWorld.cpp" />
+    <ClCompile Include="ETC\test.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="resource.h" />
