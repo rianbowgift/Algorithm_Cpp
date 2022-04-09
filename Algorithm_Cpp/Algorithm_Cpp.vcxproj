@@ -196,7 +196,6 @@
     <ClCompile Include="Baekjoon\Stack\BJ_10828.cpp" />
     <ClCompile Include="Baekjoon\Stack\BJ_4949.cpp" />
     <ClCompile Include="ETC\HelloWorld.cpp" />
-    <ClCompile Include="ETC\test.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="resource.h" />

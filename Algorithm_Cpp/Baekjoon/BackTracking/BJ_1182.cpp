@@ -3,19 +3,25 @@ using namespace std;
 
 
 int a, b;
-int* arr = new int[a];
+int* arr = new int[a+1];
 int sum;
 
 void back(int count) {
-	if (a == 1) {
-		
+	if (count > a) {
+		return;
 	}
-	else {
+
+	if (count == 3) {
+		cout << "hi";
+	}
 		int temp=0;
+
 		for (int i = count; i <= a; i++) {
+
 			temp += arr[i];
 			if (temp == b) {
 				sum++;
+				
 			}
 		}
 
@@ -23,7 +29,7 @@ void back(int count) {
 		back(count+1);
 
 
-	}
+
 
 	
 
@@ -33,11 +39,16 @@ void back(int count) {
 
 int main() {
 
-	int a, b;
 
 	cin >> a >> b;
+	
+	for (int i = 0; i < a; i++) {
+		cin >> arr[i];
+	}
+	
 	
 
 	back(0);
 
+	cout << sum;
 }
