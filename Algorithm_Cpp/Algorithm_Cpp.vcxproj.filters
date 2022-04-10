@@ -217,5 +217,8 @@
     <ClCompile Include="Baekjoon\Failure\BJ_2579.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Baekjoon\DP\BJ_11726.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
