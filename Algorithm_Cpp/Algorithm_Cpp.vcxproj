@@ -201,6 +201,7 @@
     <ClCompile Include="Baekjoon\Recursion\BJ_11729.cpp" />
     <ClCompile Include="Baekjoon\Failure\BJ_15683.cpp" />
     <ClCompile Include="Baekjoon\Sort\BJ_11728.cpp" />
+    <ClCompile Include="Baekjoon\Sort\BJ_15688.cpp" />
     <ClCompile Include="Baekjoon\Stack\BJ_10828.cpp" />
     <ClCompile Include="Baekjoon\Stack\BJ_4949.cpp" />
     <ClCompile Include="ETC\HelloWorld.cpp" />
