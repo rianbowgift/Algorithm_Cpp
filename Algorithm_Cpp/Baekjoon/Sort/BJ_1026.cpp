@@ -3,12 +3,7 @@
 using namespace std;
 
 int cmp(int a, int b) {
-	if (a > b) {
-		return b;
-	}
-	else {
-		return a;
-	}
+	return b < a;
 }
 
 
