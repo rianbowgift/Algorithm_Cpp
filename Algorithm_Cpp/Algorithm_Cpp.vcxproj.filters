@@ -238,5 +238,8 @@
     <ClCompile Include="Baekjoon\Sort\BJ_1026.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Baekjoon\Sort\BJ_1764.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
