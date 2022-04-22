@@ -200,6 +200,7 @@
     <ClCompile Include="Baekjoon\Queue\BJ_10845.cpp" />
     <ClCompile Include="Baekjoon\Recursion\BJ_11729.cpp" />
     <ClCompile Include="Baekjoon\Failure\BJ_15683.cpp" />
+    <ClCompile Include="Baekjoon\Sort\7795.cpp" />
     <ClCompile Include="Baekjoon\Sort\BJ_1026.cpp" />
     <ClCompile Include="Baekjoon\Sort\BJ_10815.cpp" />
     <ClCompile Include="Baekjoon\Sort\BJ_10867.cpp" />
