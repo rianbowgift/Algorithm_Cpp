@@ -217,6 +217,7 @@
     <ClCompile Include="Baekjoon\Sort\BJ_2776.cpp" />
     <ClCompile Include="Baekjoon\Stack\BJ_10828.cpp" />
     <ClCompile Include="Baekjoon\Stack\BJ_4949.cpp" />
+    <ClCompile Include="ETC\CPP_List_STL.cpp" />
     <ClCompile Include="ETC\HelloWorld.cpp" />
   </ItemGroup>
   <ItemGroup>
