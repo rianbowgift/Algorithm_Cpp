@@ -217,6 +217,7 @@
     <ClCompile Include="Baekjoon\Sort\BJ_2075.cpp" />
     <ClCompile Include="Baekjoon\Sort\BJ_2776.cpp" />
     <ClCompile Include="Baekjoon\Stack\BJ_10828.cpp" />
+    <ClCompile Include="Baekjoon\Stack\BJ_2493.cpp" />
     <ClCompile Include="Baekjoon\Stack\BJ_2841.cpp" />
     <ClCompile Include="Baekjoon\Stack\BJ_4889.cpp" />
     <ClCompile Include="Baekjoon\Stack\BJ_4949.cpp" />
