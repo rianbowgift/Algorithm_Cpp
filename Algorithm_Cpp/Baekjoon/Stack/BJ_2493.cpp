@@ -7,51 +7,51 @@ int main() {
 
 	ios::sync_with_stdio(0);
 	cin.tie(0);
-	
+
+	stack<pair<int, int>> st;
+	//vector<int> arr;
+
 	int a;
 	cin >> a;
-	stack<int> st;
-	vector<int> arr;		//포인터 저장
+
 	for (int i = 0; i < a; i++) {
-		int temp;
-		cin >> temp;
-		st.push(temp);
-		arr.push_back(0);
-	}
+		pair<int, int> temp;
+		cin >> temp.first;
+		temp.second = i + 1;
 
-	int a_temp = a - 1;
-	int save_pos = a;
-	while (!st.empty()) {
-		int temp = st.top();
-		st.pop();
 
-		if (st.empty()) {
-			break;
+		if (st.empty()) {	//처음일떈 무조건 실행 6 9 5 7 4 일때 6,0 입력
+			cout << "0 ";
+			temp.second = 0;
+			st.push(temp);
+			continue;
 		}
 
-		if (temp < st.top()) {
-			if (save_pos != a) {
-				for (int i = a_temp; i <= save_pos; i++) {
-					if (arr[i] < st.top()) {
-						arr[i] = a_temp;
-					}
-					else {
-						arr[i] = 0;
-					}
+		while (!st.empty()) {
+			if (st.top().first > temp.first) {
+
+				cout << st.top().second << " ";
+				st.push(temp);
+				break;
+			}
+			else {
+				if (st.size() == 1) {
+
+					cout << st.top().second << " ";
+					st.push(temp);
+					break;
 				}
-				save_pos == a;
+				st.pop();
+
+
 			}
-		}
-		else {
-			if (save_pos == a) {
-				save_pos = a_temp;
-			}
-			arr[a_temp] = temp;
+
 		}
 
-		a_temp--;
 
-		
+
+
+
 
 
 
@@ -59,16 +59,9 @@ int main() {
 	}
 
 
-	//6 9 5 7 4
 
 
-	
 
-	for (int i = 0; i < a; i++) {
-		cout << arr[i] << " ";
-	}
-
-	
 
 
 }
