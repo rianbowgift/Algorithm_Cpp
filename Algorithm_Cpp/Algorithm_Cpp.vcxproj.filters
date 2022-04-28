@@ -286,7 +286,10 @@
     <ClCompile Include="Baekjoon\Stack\BJ_2493.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Baekjoon\Stack\BJ_2257.cpp">
+    <ClCompile Include="Baekjoon\Failure\BJ_2257.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Baekjoon\Queue\BJ_3190.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
