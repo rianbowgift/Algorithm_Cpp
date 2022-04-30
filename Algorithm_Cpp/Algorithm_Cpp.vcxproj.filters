@@ -289,7 +289,10 @@
     <ClCompile Include="Baekjoon\Failure\BJ_2257.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Baekjoon\Queue\BJ_3190.cpp">
+    <ClCompile Include="Baekjoon\Simulation\BJ_3190.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Baekjoon\Queue\BJ_1966.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
