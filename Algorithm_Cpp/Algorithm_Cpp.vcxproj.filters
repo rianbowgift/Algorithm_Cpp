@@ -319,5 +319,8 @@
     <ClCompile Include="Baekjoon\DP\BJ_2193.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Programmers\Queue\PM_42586.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
