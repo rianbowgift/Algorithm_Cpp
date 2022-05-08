@@ -234,6 +234,7 @@
     <ClCompile Include="Baekjoon\Stack\BJ_4949.cpp" />
     <ClCompile Include="ETC\CPP_List_STL.cpp" />
     <ClCompile Include="ETC\HelloWorld.cpp" />
+    <ClCompile Include="Programmers\PM_42888.cpp" />
     <ClCompile Include="Programmers\Queue\PM_42586.cpp" />
   </ItemGroup>
   <ItemGroup>
