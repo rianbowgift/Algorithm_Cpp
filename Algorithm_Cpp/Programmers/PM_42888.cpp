@@ -3,8 +3,9 @@
 #include<vector>
 #include<string>
 #include <sstream>
-#define uid first
-#define nickname second 
+#include<queue>
+#include<hash_map>
+
 
 using namespace std;
 
@@ -23,10 +24,11 @@ vector<string> split(string input, char delimiter) {
 }
 
 
+
 vector<string> solution(vector<string> record) {
 	vector<string> answer;
-	vector<pair<string, string>> name;
-
+	queue<pair<string, bool>> input;
+	hash_map<string, string> maps;
 
 
 
@@ -38,22 +40,42 @@ vector<string> solution(vector<string> record) {
 
 		
 		if (action == "Enter") {
-
+			hash_map<string,string>::iterator pos = maps.find(uuid);
+			if (pos == maps.end()) {	//pos가 중복된값을 찾지 못하였다면
+				maps.insert(uuid, names);
+			}
+			input.push({ uuid, true });
+			
 		}
 		else if (action == "Leave") {
-
+			input.push({ uuid, false });
 		}
 		else if (action == "Change") {
-
-			for (int i = 0; i < name.size(); i++) {
-
+			hash_map<string, string>::iterator pos = maps.find(uuid);
+			if (pos != maps.end()) {	//pos가 중복된값을 찾았다면
+				pos->second = names;
 			}
-
+	
 		}
 
+
+		
+	}
 	
-
-
+	while (!input.empty()) {
+		pair<string, bool> temp = input.front();
+		input.pop();
+		
+		hash_map<string, string>::iterator pos = maps.find(temp.first);
+		if (pos != maps.end()) {	//pos가 중복된값을 찾았다면
+			cout << pos->second << "님이 ";
+			if (temp.second == 1) {
+				cout << "들어왔습니다.";
+			}
+			else {
+				cout << "나갔습니다.";
+			}
+		}
 		
 		
 	}
