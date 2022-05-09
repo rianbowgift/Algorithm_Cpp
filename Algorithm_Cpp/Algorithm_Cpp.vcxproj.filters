@@ -322,7 +322,10 @@
     <ClCompile Include="Programmers\Queue\PM_42586.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Programmers\PM_42888.cpp">
+    <ClCompile Include="Programmers\Hash\PM_42888.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Programmers\Failure\PM_42576.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
