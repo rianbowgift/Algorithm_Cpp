@@ -355,5 +355,8 @@
     <ClCompile Include="Baekjoon\Recursion\BJ_2630.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="BaaarkingDog\ETC\recursion_num_test.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
