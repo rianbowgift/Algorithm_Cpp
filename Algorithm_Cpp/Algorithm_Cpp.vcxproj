@@ -210,6 +210,7 @@
     <ClCompile Include="Baekjoon\Queue\BJ_10845.cpp" />
     <ClCompile Include="Baekjoon\Queue\BJ_1966.cpp" />
     <ClCompile Include="Baekjoon\Recursion\BJ_10994.cpp" />
+    <ClCompile Include="Baekjoon\Recursion\BJ_10997.cpp" />
     <ClCompile Include="Baekjoon\Recursion\BJ_16505.cpp" />
     <ClCompile Include="Baekjoon\Recursion\BJ_17478.cpp" />
     <ClCompile Include="Baekjoon\Recursion\BJ_1769.cpp" />
