@@ -214,6 +214,7 @@
     <ClCompile Include="Baekjoon\Recursion\BJ_16505.cpp" />
     <ClCompile Include="Baekjoon\Recursion\BJ_17478.cpp" />
     <ClCompile Include="Baekjoon\Recursion\BJ_1769.cpp" />
+    <ClCompile Include="Baekjoon\Failure\BJ_1780.cpp" />
     <ClCompile Include="Baekjoon\Recursion\BJ_18511.cpp" />
     <ClCompile Include="Baekjoon\Recursion\BJ_24460.cpp" />
     <ClCompile Include="Baekjoon\Recursion\BJ_2630.cpp" />
