@@ -6,13 +6,7 @@ using namespace std;
 int re(int a, int r, int c) {
 
 
-
 	
-
-
-
-
-
 }
 
 
