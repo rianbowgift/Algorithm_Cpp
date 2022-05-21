@@ -4,7 +4,7 @@ using namespace std;
 int n, m;
 int arr[100];
 bool isused[10];
-
+  
 
 void func(int k) {
 	if (k == m) {
