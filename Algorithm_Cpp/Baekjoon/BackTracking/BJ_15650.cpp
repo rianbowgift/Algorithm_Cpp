@@ -4,6 +4,8 @@ using namespace std;
 int n, m;
 int arr[100];
 bool isused[10];
+
+
   
 
 void func(int k) {
@@ -11,6 +13,15 @@ void func(int k) {
 		for (int i = 0; i < m; i++) {
 			cout << arr[i] << ' ';
 		}
+
+
+
+
+
+
+
+
+
 		cout << '\n';
 		return;
 	}
