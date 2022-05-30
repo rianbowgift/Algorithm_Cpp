@@ -8,43 +8,22 @@ int n, m;
 int arr[1000];
 bool isused[100];
 int nums[10];
-vector<string> save;
+
 
 void re(int a,int back) {
 	if (a == m) {
 		
-		if (!save.empty()) {
-			string temp;
-			for (int i = 0; i < m; i++) {
-				temp += to_string(arr[i]);
-			}
-
-
-			if (save.back() == temp) {
-				return;
-			}
-			else {
-				save.push_back(temp);
-			}
-		}
-
-
 		for (int i = 0; i < m; i++) {
 			cout << arr[i] << ' ';
 		}
-		if (save.empty()) {
-			string temp;
-			for (int i = 0; i < m; i++) {
-				temp += to_string(arr[i]);
-			}
-			save.push_back(temp);
-		}
-		
+	
 		cout << "\n";
 		return;
 	}
+
+
 	int bk = 0;
-	for (int i = back; i <= n; i++) {
+	for (int i = back; i < n; i++) {
 
 		if (bk != nums[i]) {
 			arr[a] = nums[i];
@@ -68,25 +47,14 @@ int main() {
 
 	cin >> n >> m;
 
-	vector<int> num;
-	for (int i = 1; i <= n; i++) {
-		int temp;
-		cin >> temp;
 
-		num.push_back(temp);
+	for (int i = 0; i < n; i++) {
+		cin >> nums[i];
 	}
 
-	sort(num.begin(), num.end());
-	num.erase(unique(num.begin(), num.end()), num.end());
-	
-	for (int i = 0; i < num.size(); i++) {
-		nums[i+1] = num[i];
+	sort(nums, nums + n);
 
-	}
-
-	n = num.size();
-	
-	re(0,1);
+	re(0,0);
 
 
 
