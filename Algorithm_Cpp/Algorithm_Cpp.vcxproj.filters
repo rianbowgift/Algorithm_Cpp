@@ -400,5 +400,8 @@
     <ClCompile Include="Baekjoon\BackTracking\BJ_15664.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="ETC\소스.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -258,6 +258,7 @@
     <ClCompile Include="Baekjoon\Stack\BJ_4949.cpp" />
     <ClCompile Include="ETC\CPP_List_STL.cpp" />
     <ClCompile Include="ETC\HelloWorld.cpp" />
+    <ClCompile Include="ETC\소스.cpp" />
     <ClCompile Include="Programmers\Failure\PM_42576.cpp" />
     <ClCompile Include="Programmers\Hash\PM_42888.cpp" />
     <ClCompile Include="Programmers\Queue\PM_42586.cpp" />
