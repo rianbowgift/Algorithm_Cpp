@@ -409,5 +409,8 @@
     <ClCompile Include="Baekjoon\BackTracking\BJ_15666.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Baekjoon\BackTracking\BJ_10819.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
