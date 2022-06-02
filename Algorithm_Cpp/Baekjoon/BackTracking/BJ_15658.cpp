@@ -84,7 +84,7 @@ int main() {
 	for (int i = 0; i < n; i++) {
 		cin >> nums[i];
 	}
-
+	//
 	for (int i = 0; i < 4; i++) {	// ¹éÅÍ¿¡ µ¡¼À »¬»ù °ö»ù ³ª´°»ù ¼øÀ¸·Î È½¼ö¸¸Å­ ½×ÀÓ
 		int temp;
 		cin >> temp;
