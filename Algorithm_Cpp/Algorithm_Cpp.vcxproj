@@ -260,6 +260,7 @@
     <ClCompile Include="Baekjoon\Stack\BJ_2841.cpp" />
     <ClCompile Include="Baekjoon\Stack\BJ_4889.cpp" />
     <ClCompile Include="Baekjoon\Stack\BJ_4949.cpp" />
+    <ClCompile Include="ETC\cppprec.cpp" />
     <ClCompile Include="ETC\CPP_List_STL.cpp" />
     <ClCompile Include="ETC\HelloWorld.cpp" />
     <ClCompile Include="ETC\소스.cpp" />
