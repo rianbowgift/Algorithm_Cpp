@@ -259,6 +259,7 @@
     <ClCompile Include="Baekjoon\Stack\BJ_2493.cpp" />
     <ClCompile Include="Baekjoon\Stack\BJ_2504.cpp" />
     <ClCompile Include="Baekjoon\Stack\BJ_2841.cpp" />
+    <ClCompile Include="Baekjoon\Stack\BJ_3986.cpp" />
     <ClCompile Include="Baekjoon\Stack\BJ_4889.cpp" />
     <ClCompile Include="Baekjoon\Stack\BJ_4949.cpp" />
     <ClCompile Include="ETC\cppprec.cpp" />
