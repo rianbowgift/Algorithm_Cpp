@@ -424,5 +424,8 @@
     <ClCompile Include="Baekjoon\Stack\BJ_3986.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Baekjoon\Stack\BJ_9012.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
