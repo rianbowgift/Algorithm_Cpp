@@ -17,70 +17,58 @@
 //
 //	cin >> n;
 //	cin >> word;
+//
 //	for (int i = 0; i < n; i++) {
 //		int temp;
 //		cin >> temp;
 //		arr.push_back(temp);
 //	}
 //
-//
-//	for (int i = 0; i < st.size(); i++) {
+//	
+//	for (int i = 0; i < word.size(); i++) {
 //
 //		if (st.empty()) {
-//			char tp = word[i] - 16;
-//			string x = to_string(tp);
-//			int xx = stoi(x);
-//
-//			st.push(xx);
+//			int temp = word[i] - 65;
+//			int num = arr[temp];	//º¤ÅÍ¿¡¼­ ÇØ´ç¹è¿­Ä­¿¡ ÀÖ´Â°ª °¡Àú¿È
+//			st.push(num);
 //			continue;
 //		}
-//
-//
 //
 //		if (word[i] >= 'A' && word[i] <= 'Z') {
-//			char tp = word[i] - 16;
-//			string x = to_string(tp);
-//			int xx = stoi(x);
-//
-//			st.push(xx);
-//			continue;
+//			int temp = word[i] - 65;
+//			int num = arr[temp];	//º¤ÅÍ¿¡¼­ ÇØ´ç¹è¿­Ä­¿¡ ÀÖ´Â°ª °¡Àú¿È
+//			//cout << num;
+//			st.push(num);
 //		}
-//		else if(word[i] >= '*' && word[i] <= '/') {
-//			char tp1 = st.top() - 16;
-//			string x1 = to_string(tp1);
-//			int xx1 = stoi(x1);
+//		else {
+//			double x = st.top();
 //			st.pop();
-//			char tp2 = st.top() - 16;
-//			string x2 = to_string(tp2);
-//			int xx2 = stoi(x2);
+//			double y = st.top();
 //			st.pop();
-//			
-//			if (word[i] == '+') {
-//				st.push(xx1+xx2);
+//			if (word[i] == '*') {
+//				st.push(y * x);
 //			}
 //			else if (word[i] == '-') {
-//				st.push(xx1 - xx2);
+//				st.push(y - x);
 //			}
-//			else if (word[i] == '*') {
-//				st.push(xx1 * xx2);
+//			else if (word[i] == '+') {
+//				st.push(y + x);
 //			}
 //			else if (word[i] == '/') {
-//				st.push(xx1 / xx2);
+//				st.push(y / x);
 //			}
-//			
 //		}
-//
-//
-//		
-//		
 //
 //
 //
 //	}
 //
+//
+//
 //	
-//
-//
+//	cout << fixed;
+//	cout.precision(2);
+//	cout << st.top();
 //	
 //
 //
