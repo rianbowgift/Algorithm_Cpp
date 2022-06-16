@@ -225,6 +225,7 @@
     <ClCompile Include="Baekjoon\Queue\BJ_18258.cpp" />
     <ClCompile Include="Baekjoon\Queue\BJ_1966.cpp" />
     <ClCompile Include="Baekjoon\Failure\BJ_1074.cpp" />
+    <ClCompile Include="Baekjoon\Queue\BJ_5464.cpp" />
     <ClCompile Include="Baekjoon\Recursion\BJ_10994.cpp" />
     <ClCompile Include="Baekjoon\Recursion\BJ_10997.cpp" />
     <ClCompile Include="Baekjoon\Recursion\BJ_16505.cpp" />
