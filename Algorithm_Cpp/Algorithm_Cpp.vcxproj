@@ -151,6 +151,7 @@
     <ClCompile Include="BaaarkingDog\L4\q2.cpp" />
     <ClCompile Include="Baekjoon\BackTracking\BJ_10819.cpp" />
     <ClCompile Include="Baekjoon\BackTracking\BJ_15650.cpp" />
+    <ClCompile Include="Baekjoon\BFS\BJ_16173.cpp" />
     <ClCompile Include="Baekjoon\Failure\BJ_15658.cpp" />
     <ClCompile Include="Baekjoon\BackTracking\BJ_15664.cpp" />
     <ClCompile Include="Baekjoon\BackTracking\BJ_15665.cpp" />
