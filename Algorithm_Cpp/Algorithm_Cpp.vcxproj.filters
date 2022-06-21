@@ -448,5 +448,8 @@
     <ClCompile Include="Baekjoon\Dequeue\BJ_18115.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Baekjoon\Hash\BJ_7785.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
