@@ -451,5 +451,8 @@
     <ClCompile Include="Baekjoon\Hash\BJ_7785.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Baekjoon\Hash\BJ_1620.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
