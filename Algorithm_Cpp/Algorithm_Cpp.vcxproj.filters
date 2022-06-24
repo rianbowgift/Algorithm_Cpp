@@ -442,7 +442,7 @@
     <ClCompile Include="Baekjoon\Queue\BJ_5464.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Baekjoon\BFS\BJ_16173.cpp">
+    <ClCompile Include="Baekjoon\Failure\BJ_16173.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="Baekjoon\Dequeue\BJ_18115.cpp">
@@ -452,6 +452,9 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="Baekjoon\Hash\BJ_1620.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Baekjoon\BFS\BJ_1012.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
