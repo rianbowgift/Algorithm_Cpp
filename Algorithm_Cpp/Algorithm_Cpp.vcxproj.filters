@@ -454,7 +454,10 @@
     <ClCompile Include="Baekjoon\Hash\BJ_1620.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Baekjoon\BFS\BJ_1012.cpp">
+    <ClCompile Include="Baekjoon\Failure\BJ_1012.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Baekjoon\Hash\BJ_14425.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
