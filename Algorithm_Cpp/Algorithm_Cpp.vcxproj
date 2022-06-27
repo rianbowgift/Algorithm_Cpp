@@ -222,6 +222,7 @@
     <ClCompile Include="Baekjoon\Hash\BJ_14425.cpp" />
     <ClCompile Include="Baekjoon\Hash\BJ_1620.cpp" />
     <ClCompile Include="Baekjoon\Hash\BJ_7785.cpp" />
+    <ClCompile Include="Baekjoon\Hash\BJ_9375.cpp" />
     <ClCompile Include="Baekjoon\LinkedList\BJ_1406.cpp" />
     <ClCompile Include="Baekjoon\LinkedList\BJ_5397.cpp" />
     <ClCompile Include="Baekjoon\Math\BJ_2355.cpp" />
