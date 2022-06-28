@@ -1,473 +1,156 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <Filter Include="소스 파일">
-      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
-      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
-    </Filter>
-    <Filter Include="헤더 파일">
-      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
-      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
-    </Filter>
-    <Filter Include="리소스 파일">
-      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
-      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
-    </Filter>
-    <Filter Include="소스 파일\Baekjoon">
-      <UniqueIdentifier>{f81de6bf-f4e5-4aba-a9fb-ad2647e5dfce}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\Baekjoon\Base">
-      <UniqueIdentifier>{33c5e810-a1e1-4688-8d0e-ebb611f38fab}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\ETC">
-      <UniqueIdentifier>{ba8e14d5-b3fc-496e-aff0-c01649ae97d3}</UniqueIdentifier>
-    </Filter>
+    <ClCompile Include="BaaarkingDog\ETC\recursion_test.cpp" />
+    <ClCompile Include="BaaarkingDog\ETC\recursion_num_test.cpp" />
+    <ClCompile Include="BaaarkingDog\L2\MULMUL.cpp" />
+    <ClCompile Include="BaaarkingDog\L2\q4.cpp" />
+    <ClCompile Include="BaaarkingDog\L2\sumeq.cpp" />
+    <ClCompile Include="BaaarkingDog\L2\times.cpp" />
+    <ClCompile Include="BaaarkingDog\L3\q1.cpp" />
+    <ClCompile Include="BaaarkingDog\L3\q2.cpp" />
+    <ClCompile Include="BaaarkingDog\L4\q1.cpp" />
+    <ClCompile Include="BaaarkingDog\L4\q2.cpp" />
+    <ClCompile Include="Baekjoon\BackTracking\BJ_10819.cpp" />
+    <ClCompile Include="Baekjoon\BackTracking\BJ_15650.cpp" />
+    <ClCompile Include="Baekjoon\Failure\BJ_1012.cpp" />
+    <ClCompile Include="Baekjoon\Failure\BJ_16173.cpp" />
+    <ClCompile Include="Baekjoon\Dequeue\BJ_18115.cpp" />
+    <ClCompile Include="Baekjoon\Failure\BJ_15658.cpp" />
+    <ClCompile Include="Baekjoon\BackTracking\BJ_15664.cpp" />
+    <ClCompile Include="Baekjoon\BackTracking\BJ_15665.cpp" />
+    <ClCompile Include="Baekjoon\BackTracking\BJ_15666.cpp" />
+    <ClCompile Include="Baekjoon\Failure\BJ_1182.cpp" />
+    <ClCompile Include="Baekjoon\BackTracking\BJ_15649.cpp" />
+    <ClCompile Include="Baekjoon\BackTracking\BJ_15651.cpp" />
+    <ClCompile Include="Baekjoon\BackTracking\BJ_15652.cpp" />
+    <ClCompile Include="Baekjoon\BackTracking\BJ_15654.cpp" />
+    <ClCompile Include="Baekjoon\BackTracking\BJ_15655.cpp" />
+    <ClCompile Include="Baekjoon\BackTracking\BJ_15656.cpp" />
+    <ClCompile Include="Baekjoon\BackTracking\BJ_15657.cpp" />
+    <ClCompile Include="Baekjoon\Failure\BJ_15663.cpp" />
+    <ClCompile Include="Baekjoon\Failure\BJ_9663.cpp" />
+    <ClCompile Include="Baekjoon\Base\BJ_1000.cpp" />
+    <ClCompile Include="Baekjoon\Base\BJ_10808.cpp" />
+    <ClCompile Include="Baekjoon\Base\BJ_10992.cpp" />
+    <ClCompile Include="Baekjoon\Base\BJ_1100.cpp" />
+    <ClCompile Include="Baekjoon\Base\BJ_11654.cpp" />
+    <ClCompile Include="Baekjoon\Base\BJ_1225.cpp" />
+    <ClCompile Include="Baekjoon\Base\BJ_14652.cpp" />
+    <ClCompile Include="Baekjoon\Base\BJ_15727.cpp" />
+    <ClCompile Include="Baekjoon\BFS\BJ_2178.cpp" />
+    <ClCompile Include="Baekjoon\DP\BJ_2193.cpp" />
+    <ClCompile Include="Baekjoon\Failure\BJ_4179.cpp" />
+    <ClCompile Include="Baekjoon\BFS\BJ_7576.cpp" />
+    <ClCompile Include="Baekjoon\Dequeue\BJ_1021.cpp" />
+    <ClCompile Include="Baekjoon\Dequeue\BJ_2346.cpp" />
+    <ClCompile Include="Baekjoon\DP\BJ_11659.cpp" />
+    <ClCompile Include="Baekjoon\DP\BJ_11726.cpp" />
+    <ClCompile Include="Baekjoon\DP\BJ_1464.cpp" />
+    <ClCompile Include="Baekjoon\Failure\BJ_2579.cpp" />
+    <ClCompile Include="Baekjoon\DP\BJ_9095.cpp" />
+    <ClCompile Include="Baekjoon\Failure\BJ_1673.cpp" />
+    <ClCompile Include="Baekjoon\Base\BJ_17256.cpp" />
+    <ClCompile Include="Baekjoon\Base\BJ_2557.cpp" />
+    <ClCompile Include="Baekjoon\Base\BJ_2566.cpp" />
+    <ClCompile Include="Baekjoon\Base\BJ_2783.cpp" />
+    <ClCompile Include="Baekjoon\Base\BJ_5354.cpp" />
+    <ClCompile Include="Baekjoon\BFS\BJ_1926.cpp" />
+    <ClCompile Include="Baekjoon\Failure\BJ_7576.cpp" />
+    <ClCompile Include="Baekjoon\Failure\BJ_2178.cpp" />
+    <ClCompile Include="Baekjoon\Dequeue\BJ_10866.cpp" />
+    <ClCompile Include="Baekjoon\DP\BJ_1003.cpp" />
+    <ClCompile Include="Baekjoon\DP\BJ_1010.cpp" />
+    <ClCompile Include="Baekjoon\DP\BJ_11727.cpp" />
+    <ClCompile Include="Baekjoon\DP\BJ_13301.cpp" />
+    <ClCompile Include="Baekjoon\Failure\BJ_1463.cpp" />
+    <ClCompile Include="Baekjoon\DP\BJ_14916.cpp" />
+    <ClCompile Include="Baekjoon\DP\BJ_15312.cpp" />
+    <ClCompile Include="Baekjoon\DP\BJ_15489.cpp" />
+    <ClCompile Include="Baekjoon\DP\BJ_16395.cpp" />
+    <ClCompile Include="Baekjoon\DP\BJ_17202.cpp" />
+    <ClCompile Include="Baekjoon\Failure\BJ_17626.cpp" />
+    <ClCompile Include="Baekjoon\DP\BJ_19947.cpp" />
+    <ClCompile Include="Baekjoon\DP\BJ_24416.cpp" />
+    <ClCompile Include="Baekjoon\DP\BJ_2748.cpp" />
+    <ClCompile Include="Baekjoon\DP\BJ_2839.cpp" />
+    <ClCompile Include="Baekjoon\DP\BJ_9625.cpp" />
+    <ClCompile Include="Baekjoon\DP\BJ_9655.cpp" />
+    <ClCompile Include="Baekjoon\DP\BJ_9656.cpp" />
+    <ClCompile Include="Baekjoon\Failure\BJ_1773.cpp" />
+    <ClCompile Include="Baekjoon\Base\BJ_2506.cpp" />
+    <ClCompile Include="Baekjoon\Graph\BJ_16173.cpp" />
+    <ClCompile Include="Baekjoon\Greedy\BJ_11047.cpp" />
+    <ClCompile Include="Baekjoon\Hash\BJ_14425.cpp" />
+    <ClCompile Include="Baekjoon\Hash\BJ_1620.cpp" />
+    <ClCompile Include="Waiting\BJ_22233.cpp" />
+    <ClCompile Include="Waiting\BJ_23057.cpp" />
+    <ClCompile Include="Baekjoon\Hash\BJ_7785.cpp" />
+    <ClCompile Include="Baekjoon\LinkedList\BJ_1406.cpp" />
+    <ClCompile Include="Baekjoon\LinkedList\BJ_5397.cpp" />
+    <ClCompile Include="Baekjoon\Math\BJ_2355.cpp" />
+    <ClCompile Include="Baekjoon\Base\BJ_2530.cpp" />
+    <ClCompile Include="Baekjoon\Queue\BJ_10845.cpp" />
+    <ClCompile Include="Baekjoon\Queue\BJ_14713.cpp" />
+    <ClCompile Include="Baekjoon\Queue\BJ_18258.cpp" />
+    <ClCompile Include="Baekjoon\Queue\BJ_1966.cpp" />
+    <ClCompile Include="Baekjoon\Failure\BJ_1074.cpp" />
+    <ClCompile Include="Baekjoon\Queue\BJ_5464.cpp" />
+    <ClCompile Include="Baekjoon\Recursion\BJ_10994.cpp" />
+    <ClCompile Include="Baekjoon\Recursion\BJ_10997.cpp" />
+    <ClCompile Include="Baekjoon\Recursion\BJ_16505.cpp" />
+    <ClCompile Include="Baekjoon\Recursion\BJ_17478.cpp" />
+    <ClCompile Include="Baekjoon\Recursion\BJ_1769.cpp" />
+    <ClCompile Include="Baekjoon\Failure\BJ_1780.cpp" />
+    <ClCompile Include="Baekjoon\Recursion\BJ_18511.cpp" />
+    <ClCompile Include="Baekjoon\Recursion\BJ_24460.cpp" />
+    <ClCompile Include="Baekjoon\Recursion\BJ_2630.cpp" />
+    <ClCompile Include="Baekjoon\Recursion\BJ_4779.cpp" />
+    <ClCompile Include="Baekjoon\Recursion\BJ_5568.cpp" />
+    <ClCompile Include="Baekjoon\Recursion\BJ_7113.cpp" />
+    <ClCompile Include="Baekjoon\Simulation\BJ_3190.cpp" />
+    <ClCompile Include="Baekjoon\Recursion\BJ_11729.cpp" />
+    <ClCompile Include="Baekjoon\Failure\BJ_15683.cpp" />
+    <ClCompile Include="Baekjoon\Sort\7795.cpp" />
+    <ClCompile Include="Baekjoon\Sort\BJ_1026.cpp" />
+    <ClCompile Include="Baekjoon\Sort\BJ_10815.cpp" />
+    <ClCompile Include="Baekjoon\Sort\BJ_10867.cpp" />
+    <ClCompile Include="Baekjoon\Sort\BJ_11399.cpp" />
+    <ClCompile Include="Baekjoon\Sort\BJ_11652.cpp" />
+    <ClCompile Include="Baekjoon\Sort\BJ_11728.cpp" />
+    <ClCompile Include="Baekjoon\Sort\BJ_1427.cpp" />
+    <ClCompile Include="Baekjoon\Sort\BJ_15688.cpp" />
+    <ClCompile Include="Baekjoon\Sort\BJ_1764.cpp" />
+    <ClCompile Include="Baekjoon\Sort\BJ_18870.cpp" />
+    <ClCompile Include="Baekjoon\Sort\BJ_1946.cpp" />
+    <ClCompile Include="Baekjoon\Sort\BJ_2075.cpp" />
+    <ClCompile Include="Baekjoon\Sort\BJ_2776.cpp" />
+    <ClCompile Include="Baekjoon\Stack\BJ_10799.cpp" />
+    <ClCompile Include="Baekjoon\Stack\BJ_10773.cpp" />
+    <ClCompile Include="Baekjoon\Stack\BJ_10828.cpp" />
+    <ClCompile Include="Baekjoon\Failure\BJ_2257.cpp" />
+    <ClCompile Include="Baekjoon\Failure\BJ_23253.cpp" />
+    <ClCompile Include="Baekjoon\Stack\BJ_1935.cpp" />
+    <ClCompile Include="Baekjoon\Stack\BJ_2493.cpp" />
+    <ClCompile Include="Baekjoon\Stack\BJ_2504.cpp" />
+    <ClCompile Include="Baekjoon\Stack\BJ_2841.cpp" />
+    <ClCompile Include="Baekjoon\Stack\BJ_3986.cpp" />
+    <ClCompile Include="Baekjoon\Stack\BJ_4889.cpp" />
+    <ClCompile Include="Baekjoon\Stack\BJ_4949.cpp" />
+    <ClCompile Include="Baekjoon\Stack\BJ_9012.cpp" />
+    <ClCompile Include="ETC\cppprec.cpp" />
+    <ClCompile Include="ETC\CPP_List_STL.cpp" />
+    <ClCompile Include="ETC\HelloWorld.cpp" />
+    <ClCompile Include="ETC\소스.cpp" />
+    <ClCompile Include="Programmers\Failure\PM_42576.cpp" />
+    <ClCompile Include="Programmers\Hash\PM_42888.cpp" />
+    <ClCompile Include="Programmers\Queue\PM_42586.cpp" />
+    <ClCompile Include="Baekjoon\Hash\BJ_9375.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="resource.h">
-      <Filter>헤더 파일</Filter>
-    </ClInclude>
+    <ClInclude Include="resource.h" />
   </ItemGroup>
   <ItemGroup>
-    <ResourceCompile Include="Algorithm_Cpp.rc">
-      <Filter>리소스 파일</Filter>
-    </ResourceCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="ETC\HelloWorld.cpp">
-      <Filter>소스 파일\ETC</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\Base\BJ_1000.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\Base\BJ_2530.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\Math\BJ_2355.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\Base\BJ_2506.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\Failure\BJ_1773.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\Base\BJ_2566.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\Base\BJ_2783.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\Base\BJ_10992.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\Base\BJ_5354.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\DP\BJ_2839.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\DP\BJ_2748.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\DP\BJ_24416.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\DP\BJ_17202.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\DP\BJ_15312.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\DP\BJ_1010.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\DP\BJ_9655.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\DP\BJ_9625.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\DP\BJ_13301.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\DP\BJ_14916.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\DP\BJ_16395.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\DP\BJ_15489.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\DP\BJ_19947.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\Base\BJ_2557.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\Base\BJ_15727.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\Base\BJ_11654.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\Base\BJ_14652.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\Base\BJ_17256.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\DP\BJ_9656.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\Failure\BJ_17626.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\DP\BJ_11727.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\DP\BJ_1003.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\Failure\BJ_1463.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\Graph\BJ_16173.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="BaaarkingDog\L2\times.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="BaaarkingDog\L2\sumeq.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="BaaarkingDog\L2\MULMUL.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="BaaarkingDog\L2\q4.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="BaaarkingDog\L3\q1.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="BaaarkingDog\L3\q2.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\Base\BJ_10808.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="BaaarkingDog\L4\q1.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="BaaarkingDog\L4\q2.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\Stack\BJ_10828.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\Queue\BJ_10845.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\Dequeue\BJ_10866.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\Stack\BJ_4949.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\BFS\BJ_1926.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\Failure\BJ_2178.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\Failure\BJ_7576.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\Recursion\BJ_11729.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\BackTracking\BJ_15649.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\Failure\BJ_9663.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\Failure\BJ_1673.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\Base\BJ_1225.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\Base\BJ_1100.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\Failure\BJ_1182.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\Failure\BJ_15683.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\DP\BJ_1464.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\DP\BJ_9095.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\Failure\BJ_2579.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\DP\BJ_11726.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\DP\BJ_11659.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\Greedy\BJ_11047.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\Sort\BJ_11728.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\Sort\BJ_15688.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\Sort\BJ_11652.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\Sort\BJ_1026.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\Sort\BJ_1764.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\Sort\BJ_1427.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\Sort\BJ_11399.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\Sort\BJ_2776.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\Sort\BJ_10867.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\Sort\BJ_10815.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\Sort\BJ_1946.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\Sort\7795.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\Sort\BJ_2075.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\Sort\BJ_18870.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\LinkedList\BJ_1406.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="ETC\CPP_List_STL.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\LinkedList\BJ_5397.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\Stack\BJ_2841.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\Stack\BJ_4889.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\Stack\BJ_2493.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\Failure\BJ_2257.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\Simulation\BJ_3190.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\Queue\BJ_1966.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\Dequeue\BJ_1021.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\Dequeue\BJ_2346.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\Stack\BJ_10799.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\Stack\BJ_2504.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\BFS\BJ_2178.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\BFS\BJ_7576.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\Failure\BJ_4179.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\DP\BJ_2193.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Programmers\Queue\PM_42586.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Programmers\Hash\PM_42888.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Programmers\Failure\PM_42576.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\Recursion\BJ_17478.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\Recursion\BJ_1769.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\Recursion\BJ_18511.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="BaaarkingDog\ETC\recursion_test.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\Recursion\BJ_7113.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\Recursion\BJ_5568.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\Recursion\BJ_4779.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\Recursion\BJ_10994.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\Recursion\BJ_2630.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="BaaarkingDog\ETC\recursion_num_test.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\Recursion\BJ_24460.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\Recursion\BJ_16505.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\Recursion\BJ_10997.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\Failure\BJ_1780.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\Failure\BJ_1074.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\BackTracking\BJ_15650.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\BackTracking\BJ_15651.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\BackTracking\BJ_15652.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\BackTracking\BJ_15654.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\BackTracking\BJ_15655.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\BackTracking\BJ_15656.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\BackTracking\BJ_15657.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\Failure\BJ_15663.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\BackTracking\BJ_15664.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="ETC\소스.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\BackTracking\BJ_15665.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\BackTracking\BJ_15666.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\BackTracking\BJ_10819.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\Failure\BJ_15658.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="ETC\cppprec.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\Failure\BJ_23253.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\Stack\BJ_3986.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\Stack\BJ_9012.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\Stack\BJ_1935.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\Stack\BJ_10773.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\Queue\BJ_18258.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\Queue\BJ_14713.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\Queue\BJ_5464.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\Failure\BJ_16173.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\Dequeue\BJ_18115.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\Hash\BJ_7785.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\Hash\BJ_1620.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\Failure\BJ_1012.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\Hash\BJ_14425.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Baekjoon\Hash\BJ_9375.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Waiting\BJ_23057.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Waiting\BJ_22233.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
+    <ResourceCompile Include="Algorithm_Cpp.rc" />
   </ItemGroup>
 </Project>
