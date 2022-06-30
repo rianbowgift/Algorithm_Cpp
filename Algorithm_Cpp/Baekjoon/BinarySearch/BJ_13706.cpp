@@ -1,14 +1,18 @@
-#include<iostream>
-using namespace std;
-
-int main() {
-
-	ios::sync_with_stdio(0);
-	cin.tie(0);
-	int n;
-	cin >> n;
-	n = sqrt(n);
-	cout << n;
-
-
-}
+//#include<iostream>
+//using namespace std;
+//
+//int main() {
+//
+//	ios::sync_with_stdio(0);
+//	cin.tie(0);
+//	string n;
+//	cin >> n;
+//	
+//	cout << sqrt(n);
+//
+//	
+//	
+//	
+//
+//
+//}
