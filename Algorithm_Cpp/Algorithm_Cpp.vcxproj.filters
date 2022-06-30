@@ -146,6 +146,7 @@
     <ClCompile Include="Programmers\Hash\PM_42888.cpp" />
     <ClCompile Include="Programmers\Queue\PM_42586.cpp" />
     <ClCompile Include="Baekjoon\Hash\BJ_9375.cpp" />
+    <ClCompile Include="Baekjoon\BinarySearch\BJ_13706.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="resource.h" />

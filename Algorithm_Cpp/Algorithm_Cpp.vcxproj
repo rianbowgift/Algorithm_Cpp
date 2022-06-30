@@ -151,6 +151,7 @@
     <ClCompile Include="BaaarkingDog\L4\q2.cpp" />
     <ClCompile Include="Baekjoon\BackTracking\BJ_10819.cpp" />
     <ClCompile Include="Baekjoon\BackTracking\BJ_15650.cpp" />
+    <ClCompile Include="Baekjoon\BinarySearch\BJ_13706.cpp" />
     <ClCompile Include="Baekjoon\Failure\BJ_1012.cpp" />
     <ClCompile Include="Baekjoon\Failure\BJ_16173.cpp" />
     <ClCompile Include="Baekjoon\Dequeue\BJ_18115.cpp" />
@@ -225,7 +226,6 @@
     <ClCompile Include="Waiting\BJ_22233.cpp" />
     <ClCompile Include="Waiting\BJ_23057.cpp" />
     <ClCompile Include="Baekjoon\Hash\BJ_7785.cpp" />
-    <ClCompile Include="Baekjoon\Hash\BJ_9375.cpp" />
     <ClCompile Include="Baekjoon\LinkedList\BJ_1406.cpp" />
     <ClCompile Include="Baekjoon\LinkedList\BJ_5397.cpp" />
     <ClCompile Include="Baekjoon\Math\BJ_2355.cpp" />
