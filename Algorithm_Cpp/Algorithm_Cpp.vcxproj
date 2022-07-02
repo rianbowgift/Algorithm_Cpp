@@ -152,6 +152,7 @@
     <ClCompile Include="Baekjoon\BackTracking\BJ_10819.cpp" />
     <ClCompile Include="Baekjoon\BackTracking\BJ_15650.cpp" />
     <ClCompile Include="Baekjoon\BinarySearch\BJ_13706.cpp" />
+    <ClCompile Include="Baekjoon\BinarySearch\BJ_19637.cpp" />
     <ClCompile Include="Baekjoon\Failure\BJ_1012.cpp" />
     <ClCompile Include="Baekjoon\Failure\BJ_16173.cpp" />
     <ClCompile Include="Baekjoon\Dequeue\BJ_18115.cpp" />
