@@ -12,13 +12,7 @@ int main() {
 
 	cin >> n >> m;
 
-	for (int i = 0; i < n; i++) {
-		string temp;
-		int temp2;
-		cin >> temp >> temp2;
-		grade.push_back({ temp,temp2 });
 
-	}
 
 
 
