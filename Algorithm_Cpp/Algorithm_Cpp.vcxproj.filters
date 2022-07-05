@@ -150,6 +150,7 @@
     <ClCompile Include="Baekjoon\BinarySearch\BJ_19637.cpp" />
     <ClCompile Include="Baekjoon\Implementation\BJ_2420.cpp" />
     <ClCompile Include="Baekjoon\Math\BJ_1009.cpp" />
+    <ClCompile Include="Baekjoon\Implementation\BJ_1524.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="resource.h" />
