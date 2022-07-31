@@ -152,6 +152,7 @@
     <ClCompile Include="Baekjoon\BackTracking\BJ_10819.cpp" />
     <ClCompile Include="Baekjoon\BackTracking\BJ_15650.cpp" />
     <ClCompile Include="Baekjoon\Base\BJ_10807.cpp" />
+    <ClCompile Include="Baekjoon\Base\BJ_10809.cpp" />
     <ClCompile Include="Baekjoon\Base\BJ_10926.cpp" />
     <ClCompile Include="Baekjoon\Base\BJ_14489.cpp" />
     <ClCompile Include="Baekjoon\Base\BJ_14645.cpp" />
@@ -169,6 +170,7 @@
     <ClCompile Include="Baekjoon\Base\BJ_4101.cpp" />
     <ClCompile Include="Baekjoon\Base\BJ_5597.cpp" />
     <ClCompile Include="Baekjoon\Base\BJ_8370.cpp" />
+    <ClCompile Include="Baekjoon\Base\BJ_9653.cpp" />
     <ClCompile Include="Baekjoon\Base\BJ_9654.cpp" />
     <ClCompile Include="Baekjoon\BinarySearch\BJ_13706.cpp" />
     <ClCompile Include="Baekjoon\BinarySearch\BJ_19637.cpp" />
