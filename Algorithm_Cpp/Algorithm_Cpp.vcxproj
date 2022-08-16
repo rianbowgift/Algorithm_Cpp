@@ -183,6 +183,7 @@
     <ClCompile Include="Baekjoon\Base\BJ_4999.cpp" />
     <ClCompile Include="Baekjoon\Base\BJ_5532.cpp" />
     <ClCompile Include="Baekjoon\Base\BJ_5597.cpp" />
+    <ClCompile Include="Baekjoon\Base\BJ_6749.cpp" />
     <ClCompile Include="Baekjoon\Base\BJ_8370.cpp" />
     <ClCompile Include="Baekjoon\Failure\BigInteger\BJ_8437.cpp" />
     <ClCompile Include="Baekjoon\Base\BJ_9653.cpp" />
