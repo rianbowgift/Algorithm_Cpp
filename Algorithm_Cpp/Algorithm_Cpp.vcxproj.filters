@@ -204,6 +204,7 @@
     <ClCompile Include="Baekjoon\Base\BJ_10768.cpp" />
     <ClCompile Include="Baekjoon\Base\BJ_15726.cpp" />
     <ClCompile Include="Baekjoon\Base\BJ_11943.cpp" />
+    <ClCompile Include="Baekjoon\Base\BJ_17362.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="resource.h" />
