@@ -219,6 +219,7 @@
     <ClCompile Include="Baekjoon\Base\BJ_10103.cpp" />
     <ClCompile Include="Baekjoon\Base\BJ_10569.cpp" />
     <ClCompile Include="Baekjoon\Base\BJ_10995.cpp" />
+    <ClCompile Include="Baekjoon\BinarySearch\BJ_1920.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="resource.h" />
