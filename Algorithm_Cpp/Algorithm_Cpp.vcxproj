@@ -288,6 +288,7 @@
     <ClCompile Include="Baekjoon\Base\BJ_2506.cpp" />
     <ClCompile Include="Baekjoon\Graph\BJ_16173.cpp" />
     <ClCompile Include="Baekjoon\Greedy\BJ_11047.cpp" />
+    <ClCompile Include="Baekjoon\Greedy\BJ_1439.cpp" />
     <ClCompile Include="Baekjoon\Greedy\BJ_1789.cpp" />
     <ClCompile Include="Baekjoon\Hash\BJ_14425.cpp" />
     <ClCompile Include="Baekjoon\Hash\BJ_1620.cpp" />
