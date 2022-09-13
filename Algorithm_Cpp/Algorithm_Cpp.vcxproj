@@ -290,6 +290,7 @@
     <ClCompile Include="Baekjoon\Greedy\BJ_11047.cpp" />
     <ClCompile Include="Baekjoon\Greedy\BJ_1439.cpp" />
     <ClCompile Include="Baekjoon\Greedy\BJ_1789.cpp" />
+    <ClCompile Include="Baekjoon\Greedy\BJ_2217.cpp" />
     <ClCompile Include="Baekjoon\Hash\BJ_14425.cpp" />
     <ClCompile Include="Baekjoon\Hash\BJ_1620.cpp" />
     <ClCompile Include="Baekjoon\Hash\BJ_9375.cpp" />
