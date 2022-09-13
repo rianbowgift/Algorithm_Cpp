@@ -226,6 +226,7 @@
     <ClCompile Include="Baekjoon\Greedy\BJ_1789.cpp" />
     <ClCompile Include="Baekjoon\Greedy\BJ_1439.cpp" />
     <ClCompile Include="Baekjoon\Greedy\BJ_2217.cpp" />
+    <ClCompile Include="Baekjoon\Greedy\BJ_2847.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="resource.h" />
