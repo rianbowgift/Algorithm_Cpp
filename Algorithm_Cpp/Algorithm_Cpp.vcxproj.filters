@@ -228,6 +228,7 @@
     <ClCompile Include="Baekjoon\Greedy\BJ_2217.cpp" />
     <ClCompile Include="Baekjoon\Greedy\BJ_2847.cpp" />
     <ClCompile Include="Baekjoon\Failure\BigInteger\BJ_10826.cpp" />
+    <ClCompile Include="Baekjoon\Base\Bj_2744.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="resource.h" />
