@@ -209,6 +209,7 @@
     <ClCompile Include="Baekjoon\Base\BJ_25314.cpp" />
     <ClCompile Include="Baekjoon\Base\BJ_25372.cpp" />
     <ClCompile Include="Baekjoon\Base\BJ_2562.cpp" />
+    <ClCompile Include="Baekjoon\Base\BJ_2693.cpp" />
     <ClCompile Include="Baekjoon\Base\BJ_2743.cpp" />
     <ClCompile Include="Baekjoon\Base\Bj_2744.cpp" />
     <ClCompile Include="Baekjoon\Base\BJ_2754.cpp" />
