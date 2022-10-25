@@ -17,7 +17,7 @@
 //		string temp;
 //		cin >> temp;
 //
-//		if (temp.size() % 2 != 0) {//È¦¼ö¸é Á¦¿Ü 
+//		if (temp.size() % 2 != 0) {//È¦ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ 
 //			continue;
 //		}
 //

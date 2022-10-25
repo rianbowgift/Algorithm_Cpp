@@ -190,6 +190,7 @@
     <ClCompile Include="Baekjoon\Base\BJ_17362.cpp" />
     <ClCompile Include="Baekjoon\Base\BJ_17388.cpp" />
     <ClCompile Include="Baekjoon\Base\BJ_18301.cpp" />
+    <ClCompile Include="Baekjoon\Base\BJ_18409.cpp" />
     <ClCompile Include="Baekjoon\Base\BJ_19602.cpp" />
     <ClCompile Include="Baekjoon\Base\BJ_20254.cpp" />
     <ClCompile Include="Baekjoon\Base\BJ_20499.cpp" />
@@ -323,6 +324,7 @@
     <ClCompile Include="Baekjoon\Base\BJ_2506.cpp" />
     <ClCompile Include="Baekjoon\Graph\BJ_16173.cpp" />
     <ClCompile Include="Baekjoon\Greedy\BJ_11047.cpp" />
+    <ClCompile Include="Baekjoon\Greedy\BJ_1343.cpp" />
     <ClCompile Include="Baekjoon\Greedy\BJ_1439.cpp" />
     <ClCompile Include="Baekjoon\Greedy\BJ_1789.cpp" />
     <ClCompile Include="Baekjoon\Greedy\BJ_2217.cpp" />
