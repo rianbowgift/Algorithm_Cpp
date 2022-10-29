@@ -182,6 +182,7 @@
     <ClCompile Include="Baekjoon\Base\BJ_15873.cpp" />
     <ClCompile Include="Baekjoon\Base\BJ_15962.cpp" />
     <ClCompile Include="Baekjoon\Base\BJ_15963.cpp" />
+    <ClCompile Include="Baekjoon\Base\BJ_15964.cpp" />
     <ClCompile Include="Baekjoon\Base\BJ_16170.cpp" />
     <ClCompile Include="Baekjoon\Base\BJ_16394.cpp" />
     <ClCompile Include="Baekjoon\Base\BJ_16430.cpp" />
@@ -234,6 +235,7 @@
     <ClCompile Include="Baekjoon\Base\BJ_4999.cpp" />
     <ClCompile Include="Baekjoon\Base\BJ_5337.cpp" />
     <ClCompile Include="Baekjoon\Base\BJ_5338.cpp" />
+    <ClCompile Include="Baekjoon\Base\BJ_5339.cpp" />
     <ClCompile Include="Baekjoon\Base\BJ_5522.cpp" />
     <ClCompile Include="Baekjoon\Base\BJ_5532.cpp" />
     <ClCompile Include="Baekjoon\Base\BJ_5543.cpp" />
