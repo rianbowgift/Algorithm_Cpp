@@ -5,6 +5,9 @@
 //int arr[100002];
 //
 //int main() {
+//	//백준 1920문제 연습
+//	ios::sync_with_stdio(0);
+//	cin.tie(0);
 //
 //	int n;
 //	cin >> n;
@@ -33,12 +36,16 @@
 //			else if (arr[mid] > temp)
 //				en = mid - 1;
 //			else {
-//				cout << temp << " ";
+//				cout << "1" << "\n";
+//				break;
 //			}
 //
 //		}
-//		
-//		
+//		if (st > en) {
+//			cout << "0" << "\n";
+//		}
+//
+//
 //
 //	}
 //

@@ -272,6 +272,18 @@
     <ClCompile Include="Baekjoon\Base\BJ_25083.cpp" />
     <ClCompile Include="Baekjoon\Base\BJ_23235.cpp" />
     <ClCompile Include="Baekjoon\Base\BJ_24262.cpp" />
+    <ClCompile Include="Baekjoon\Stack\BJ_25918.cpp" />
+    <ClCompile Include="Spa_python_with_C\BinarySearch\Prac_Binary_Search.cpp" />
+    <ClCompile Include="Spa_python_with_C\BinarySearch\Spa_01.cpp" />
+    <ClCompile Include="Spa_python_with_C\BinarySearch\Spa_02.cpp" />
+    <ClCompile Include="Spa_python_with_C\Recursion\Spa_01.cpp" />
+    <ClCompile Include="Spa_python_with_C\Recursion\spa_02.cpp" />
+    <ClCompile Include="Spa_python_with_C\BinarySearch\spa_03.cpp" />
+    <ClCompile Include="Spa_python_with_C\Recursion\Spa_03.cpp" />
+    <ClCompile Include="Spa_python_with_C\Sort\Spa_Bubble_Sort_01.cpp" />
+    <ClCompile Include="Spa_python_with_C\Sort\Spa_Selection_Sort_01.cpp" />
+    <ClCompile Include="Spa_python_with_C\Sort\Spa_Insertion_Sort_01.cpp" />
+    <ClCompile Include="Spa_python_with_C\Sort\Spa_Insertion_Sort_02.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="resource.h" />

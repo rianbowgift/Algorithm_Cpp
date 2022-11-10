@@ -34,7 +34,7 @@
 //			int temp;
 //			cin >> temp;
 //
-//			//cout << "ÀÌ°ÅÀÓ -> " << arr1[temp] << " \n";
+//			//cout << "ï¿½Ì°ï¿½ï¿½ï¿½ -> " << arr1[temp] << " \n";
 //
 //			if (arr1[temp]) {
 //				arr2[i] = 1;

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup Label="ProjectConfigurations">
     <ProjectConfiguration Include="Debug|Win32">
@@ -348,6 +348,20 @@
     <ClCompile Include="Baekjoon\Math\BJ_1934.cpp" />
     <ClCompile Include="Baekjoon\Math\BJ_2702.cpp" />
     <ClCompile Include="Baekjoon\Failure\BJ_2903.cpp" />
+    <ClCompile Include="Baekjoon\Stack\BJ_25918.cpp" />
+    <ClCompile Include="Spa_python_with_C\BinarySearch\Prac_Binary_Search.cpp" />
+    <ClCompile Include="Spa_python_with_C\BinarySearch\Spa_01.cpp" />
+    <ClCompile Include="Spa_python_with_C\BinarySearch\Spa_02.cpp" />
+    <ClCompile Include="Spa_python_with_C\Recursion\Spa_01.cpp" />
+    <ClCompile Include="Spa_python_with_C\Recursion\spa_02.cpp" />
+    <ClCompile Include="Spa_python_with_C\BinarySearch\spa_03.cpp" />
+    <ClCompile Include="Spa_python_with_C\Recursion\Spa_03.cpp" />
+    <ClCompile Include="Spa_python_with_C\Sort\Prac_Merge_Sort.cpp" />
+    <ClCompile Include="Spa_python_with_C\Sort\Spa_Bubble_Sort_01.cpp" />
+    <ClCompile Include="Spa_python_with_C\Sort\Spa_Insertion_Sort_01.cpp" />
+    <ClCompile Include="Spa_python_with_C\Sort\Spa_Insertion_Sort_02.cpp" />
+    <ClCompile Include="Spa_python_with_C\Sort\Spa_Merge_Sort_01.cpp" />
+    <ClCompile Include="Spa_python_with_C\Sort\Spa_Selection_Sort_01.cpp" />
     <ClCompile Include="Waiting\BJ_22233.cpp" />
     <ClCompile Include="Waiting\BJ_23057.cpp" />
     <ClCompile Include="Baekjoon\Hash\BJ_7785.cpp" />

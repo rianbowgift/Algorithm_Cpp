@@ -16,9 +16,9 @@
 //		arr.push_back(temp);
 //	}
 //
-//	sort(arr.begin(),arr.end());	//Á¤·Ä
+//	sort(arr.begin(),arr.end());	//ï¿½ï¿½ï¿½ï¿½
 //
-//	arr.erase(unique(arr.begin(), arr.end()),arr.end());	//Áßº¹°ªÀº °¡ÀåµÚ·Î ³¯¸®°í »èÁ¦
+//	arr.erase(unique(arr.begin(), arr.end()),arr.end());	//ï¿½ßºï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½Ú·ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
 //
 //	for (int i = 0; i < arr.size(); i++) {
 //		cout << arr[i] << " ";
