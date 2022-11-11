@@ -1,46 +1,33 @@
-//#include<iostream>
-//#include<algorithm>
-//using namespace std;
-//
-//int arr[100002];
-//
-//int main() {
-//
-//	int n;
-//	cin >> n;
-//	for (int i = 0; i < n; i++) {
-//		int temp;
-//		cin >> temp;
-//		arr[i] = temp;
-//	}
-//
-//	sort(arr, arr + n);
-//
-//	int m;
-//	cin >> m;
-//	for (int i = 0; i < m; i++) {
-//
-//		int temp;
-//		cin >> temp;
-//
-//		int st = 0;
-//		int en = n - 1;
-//
-//		while (st <= en) {
-//			int mid = (st + en) / 2;
-//			if (arr[mid] < temp)
-//				st = mid + 1;
-//			else if (arr[mid] > temp)
-//				en = mid - 1;
-//			else {
-//				cout << temp << " ";
-//			}
-//
-//		}
-//		
-//		
-//
-//	}
-//
-//
-//}
+#include<iostream>
+using namespace std;
+
+int main() {
+
+	ios::sync_with_stdio(0);
+	cin.tie(0);
+
+	string a;
+	int sum = 0;
+	bool re = false;
+	cin >> a;
+	char temp1;
+	temp1 = a[0];
+	for (int i = 0; i < a.length(); i++) {
+		if (a[i] != temp1) {
+			if (re == false) {
+				re = true;
+				sum++;
+			}
+		}
+		else {
+			re = false;
+		}
+
+
+
+	}
+
+	cout << sum;
+
+
+}
