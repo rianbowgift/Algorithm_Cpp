@@ -284,6 +284,13 @@
     <ClCompile Include="Spa_python_with_C\Sort\Spa_Selection_Sort_01.cpp" />
     <ClCompile Include="Spa_python_with_C\Sort\Spa_Insertion_Sort_01.cpp" />
     <ClCompile Include="Spa_python_with_C\Sort\Spa_Insertion_Sort_02.cpp" />
+    <ClCompile Include="Spa_python_with_C\Sort\Prac_Merge_Sort.cpp" />
+    <ClCompile Include="Spa_python_with_C\Sort\Spa_Merge_Sort_01.cpp" />
+    <ClCompile Include="Spa_python_with_C\Stack\Spa_Stack_01.cpp" />
+    <ClCompile Include="Spa_python_with_C\Hash\Spa_Hash_01.cpp" />
+    <ClCompile Include="Spa_python_with_C\Sort\Spa_Merge_Sort_02.cpp" />
+    <ClCompile Include="Spa_python_with_C\Stack\Spa_Stack_02.cpp" />
+    <ClCompile Include="Spa_python_with_C\Hash\Spa_Hash_02.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="resource.h" />
