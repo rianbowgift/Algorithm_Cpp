@@ -1,5 +1,5 @@
 //#include<iostream>
-//#include<stack>
+//#include<queue>
 //using namespace std;
 //
 //
@@ -17,20 +17,20 @@
 //	ios::sync_with_stdio(0);
 //	cin.tie(0);
 //
-//	//1.스택생성
+//	//1.큐생성
 //	//2.시작지점에 방문여부체크
-//	//3. 시작지점 스택에 삽입
+//	//3. 시작지점 큐에 삽입
 //
-//	stack<pair<int, int>> S;
+//	queue<pair<int, int>> Q;
 //	vis[0][0] = 1;
-//	S.push({ 0,0 });
+//	Q.push({ 0,0 });
 //
 //
-//	while (!S.empty()) {
+//	while (!Q.empty()) {
 //		//1.현재 지점을 cur에 저장
-//		//2.저장한 지점을 스택에서 제거
-//		pair<int, int> cur = S.top();
-//		S.pop();
+//		//2.저장한 지점을 큐에서 제거
+//		pair<int, int> cur = Q.front();
+//		Q.pop();
 //
 //		//1.for문으로 밑,오른쪽,위,왼쪽 순서로 탐색(순서상관X)
 //		//2.nx와 ny에 현재지점+ 밑,오른쪽,위,왼쪽 순서로 좌표지정
@@ -57,12 +57,12 @@
 //			}
 //			
 //			//1. nx,ny좌표에 방문표시
-//			//2. stack에 현재좌표 삽입
+//			//2. Q에 현재좌표 삽입
 //			vis[nx][ny] = 1;
-//			S.push({ nx,ny });
+//			Q.push({ nx,ny });
 //
-//			//주의 !stack에 넣을때 표시를해야한다. 
-//			// stack에서 뺄때 표시하면 여러번표시해서
+//			//주의 !큐에 넣을때 표시를해야한다. 
+//			// 큐에서 뺄때 표시하면 여러번표시해서
 //			//  시간초과가능성 높음
 //
 //
