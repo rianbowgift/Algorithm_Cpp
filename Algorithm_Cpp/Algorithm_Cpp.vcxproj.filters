@@ -298,6 +298,7 @@
     <ClCompile Include="Spa_python_with_C\DP\Spa_DP_03.cpp" />
     <ClCompile Include="Spa_python_with_C\DP\Spa_DP_04.cpp" />
     <ClCompile Include="Spa_python_with_C\BFS\Spa_BFS_02.cpp" />
+    <ClCompile Include="Spa_python_with_C\Heap\Spa_Heap_01.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="resource.h" />

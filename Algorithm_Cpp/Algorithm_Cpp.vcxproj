@@ -361,6 +361,7 @@
     <ClCompile Include="Spa_python_with_C\DP\Spa_DP_04.cpp" />
     <ClCompile Include="Spa_python_with_C\Hash\Spa_Hash_01.cpp" />
     <ClCompile Include="Spa_python_with_C\Hash\Spa_Hash_02.cpp" />
+    <ClCompile Include="Spa_python_with_C\Heap\Spa_Heap_01.cpp" />
     <ClCompile Include="Spa_python_with_C\Recursion\Spa_01.cpp" />
     <ClCompile Include="Spa_python_with_C\Recursion\spa_02.cpp" />
     <ClCompile Include="Spa_python_with_C\BinarySearch\spa_03.cpp" />
