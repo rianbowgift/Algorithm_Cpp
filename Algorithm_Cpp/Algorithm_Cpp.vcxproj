@@ -362,6 +362,7 @@
     <ClCompile Include="Spa_python_with_C\Hash\Spa_Hash_01.cpp" />
     <ClCompile Include="Spa_python_with_C\Hash\Spa_Hash_02.cpp" />
     <ClCompile Include="Spa_python_with_C\Heap\Spa_Heap_01.cpp" />
+    <ClCompile Include="Spa_python_with_C\Implementation\BJ_17780.cpp" />
     <ClCompile Include="Spa_python_with_C\Recursion\Spa_01.cpp" />
     <ClCompile Include="Spa_python_with_C\Recursion\spa_02.cpp" />
     <ClCompile Include="Spa_python_with_C\BinarySearch\spa_03.cpp" />
@@ -375,6 +376,10 @@
     <ClCompile Include="Spa_python_with_C\Sort\Spa_Selection_Sort_01.cpp" />
     <ClCompile Include="Spa_python_with_C\Stack\Spa_Stack_01.cpp" />
     <ClCompile Include="Spa_python_with_C\Stack\Spa_Stack_02.cpp" />
+    <ClCompile Include="Spa_python_with_C\time_attack\PM_120818.cpp" />
+    <ClCompile Include="Spa_python_with_C\time_attack\PM_120829.cpp" />
+    <ClCompile Include="Spa_python_with_C\time_attack\PM_120883.cpp" />
+    <ClCompile Include="Spa_python_with_C\time_attack\PM_120891.cpp" />
     <ClCompile Include="Waiting\BJ_22233.cpp" />
     <ClCompile Include="Waiting\BJ_23057.cpp" />
     <ClCompile Include="Baekjoon\Hash\BJ_7785.cpp" />

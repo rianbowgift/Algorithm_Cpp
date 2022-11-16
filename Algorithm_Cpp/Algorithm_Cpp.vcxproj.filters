@@ -299,6 +299,11 @@
     <ClCompile Include="Spa_python_with_C\DP\Spa_DP_04.cpp" />
     <ClCompile Include="Spa_python_with_C\BFS\Spa_BFS_02.cpp" />
     <ClCompile Include="Spa_python_with_C\Heap\Spa_Heap_01.cpp" />
+    <ClCompile Include="Spa_python_with_C\Implementation\BJ_17780.cpp" />
+    <ClCompile Include="Spa_python_with_C\time_attack\PM_120829.cpp" />
+    <ClCompile Include="Spa_python_with_C\time_attack\PM_120818.cpp" />
+    <ClCompile Include="Spa_python_with_C\time_attack\PM_120891.cpp" />
+    <ClCompile Include="Spa_python_with_C\time_attack\PM_120883.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="resource.h" />
