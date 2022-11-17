@@ -256,7 +256,7 @@
     <ClCompile Include="Baekjoon\BinarySearch\BJ_10816_2.cpp" />
     <ClCompile Include="Baekjoon\BinarySearch\BJ_1920.cpp" />
     <ClCompile Include="Baekjoon\BinarySearch\Bj_4158.cpp" />
-    <ClCompile Include="Baekjoon\Failure\BigInteger\BJ_10826.cpp" />
+    <ClCompile Include="Baekjoon\DP\BJ_2491.cpp" />
     <ClCompile Include="Baekjoon\Failure\BigInteger\BJ_8437.cpp" />
     <ClCompile Include="Baekjoon\Base\BJ_9653.cpp" />
     <ClCompile Include="Baekjoon\Base\BJ_9654.cpp" />
