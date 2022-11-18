@@ -304,6 +304,9 @@
     <ClCompile Include="Spa_python_with_C\time_attack\PM_120891.cpp" />
     <ClCompile Include="Spa_python_with_C\time_attack\PM_120883.cpp" />
     <ClCompile Include="Baekjoon\DP\BJ_2491.cpp" />
+    <ClCompile Include="Spa_python_with_C\DP\Spa_DP_05.cpp" />
+    <ClCompile Include="Spa_python_with_C\DP\Spa_DP_06.cpp" />
+    <ClCompile Include="Baekjoon\DP\BJ_11660.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="resource.h" />
