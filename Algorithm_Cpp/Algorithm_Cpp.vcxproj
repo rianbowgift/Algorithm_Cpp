@@ -368,6 +368,7 @@
     <ClCompile Include="Baekjoon\Stack\BJ_25918.cpp" />
     <ClCompile Include="Programmers\PM_120842.cpp" />
     <ClCompile Include="Programmers\PM_120861.cpp" />
+    <ClCompile Include="Programmers\PM_120894.cpp" />
     <ClCompile Include="Programmers\PM_120905.cpp" />
     <ClCompile Include="Spa_python_with_C\BinarySearch\Prac_Binary_Search.cpp" />
     <ClCompile Include="Spa_python_with_C\BinarySearch\Spa_01.cpp" />
