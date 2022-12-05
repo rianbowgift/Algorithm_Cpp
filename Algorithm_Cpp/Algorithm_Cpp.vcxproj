@@ -368,6 +368,7 @@
     <ClCompile Include="Baekjoon\Stack\BJ_25918.cpp" />
     <ClCompile Include="Programmers\PM_120842.cpp" />
     <ClCompile Include="Programmers\PM_120861.cpp" />
+    <ClCompile Include="Programmers\PM_120866.cpp" />
     <ClCompile Include="Programmers\PM_120876.cpp" />
     <ClCompile Include="Programmers\PM_120894.cpp" />
     <ClCompile Include="Programmers\PM_120905.cpp" />
