@@ -330,6 +330,8 @@
     <ClCompile Include="Programmers\PM_120876.cpp" />
     <ClCompile Include="Programmers\PM_120907.cpp" />
     <ClCompile Include="Programmers\PM_120866.cpp" />
+    <ClCompile Include="Programmers\PM_120875.cpp" />
+    <ClCompile Include="Baekjoon\Base\BJ_8871.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="resource.h" />
