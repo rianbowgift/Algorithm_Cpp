@@ -1,34 +1,29 @@
-//#include<iostream>
-//#include<string>
-//#include<vector>
-//
-//using namespace std;
-//
-//vector<int> all_num;
-//
-//
-//vector<int> solution(vector<int> marbles) {
-//	vector<int> answer;
-//
-//
-//
-//
-//
-//	return answer;
-//
-//}
-//
-//
-//
-//
-//
-//
-//
-//int main() {
-//
-//
-//	vector<int> marbles = { 1,2,3,4,4 };
-//	solution(marbles);
-//
-//
-//}
+#include<iostream>
+using namespace std;
+
+
+int arr[20];
+int main() {
+
+	ios::sync_with_stdio(0);
+	cin.tie(0);
+
+	int n;
+
+	cin >> n;
+
+	arr[1] = 1;
+	arr[2] = 1;
+	
+
+	for (int i = 3; i <= n; i++) {
+		arr[i] = arr[i - 1] + arr[i - 2];
+	}
+
+	cout << arr[n];
+
+
+
+
+
+}
