@@ -379,6 +379,7 @@
     <ClCompile Include="Programmers\Level0\Base\PM_120910.cpp" />
     <ClCompile Include="Programmers\Level1\Hash\PM_136798.cpp" />
     <ClCompile Include="Programmers\Level1\Base\PM_142086.cpp" />
+    <ClCompile Include="Programmers\Level1\Base\PM_132267.cpp" />
     <ClCompile Include="Programmers\Level1\String\PM_134240.cpp" />
     <ClCompile Include="Programmers\Level1\String\PM_140108.cpp" />
     <ClCompile Include="Programmers\Level1\Sort\PM_135808.cpp" />
