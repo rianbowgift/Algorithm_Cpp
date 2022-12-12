@@ -345,6 +345,7 @@
     <ClCompile Include="Programmers\Level1\stack\PM_133502.cpp" />
     <ClCompile Include="Programmers\Level1\String\PM_133499.cpp" />
     <ClCompile Include="Programmers\Level0\Map\PM_120812.cpp" />
+    <ClCompile Include="Programmers\Level1\Hash\PM_42576.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="resource.h" />
