@@ -340,9 +340,9 @@
     <ClCompile Include="Programmers\Level1\String\PM_140108.cpp" />
     <ClCompile Include="Programmers\Level1\String\PM_134240.cpp" />
     <ClCompile Include="Programmers\Level1\Math\PM_132267.cpp" />
-    <ClCompile Include="Programmers\Level1\PM_138477.cpp" />
     <ClCompile Include="Programmers\Level1\Sort\PM_138477.cpp" />
     <ClCompile Include="Programmers\Level1\String\PM_131128.cpp" />
+    <ClCompile Include="Programmers\Level1\stack\PM_133502.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="resource.h" />
