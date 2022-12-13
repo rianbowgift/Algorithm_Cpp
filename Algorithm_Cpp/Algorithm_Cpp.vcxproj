@@ -380,7 +380,7 @@
     <ClCompile Include="Programmers\Level0\Map\PM_120812.cpp" />
     <ClCompile Include="Programmers\Level1\Hash\PM_136798.cpp" />
     <ClCompile Include="Programmers\Level1\Hash\PM_42576.cpp" />
-    <ClCompile Include="Programmers\Level1\PM_131705.cpp" />
+    <ClCompile Include="Programmers\Level1\Math\PM_131705.cpp" />
     <ClCompile Include="Programmers\Level1\String\PM_133499.cpp" />
     <ClCompile Include="Programmers\Level1\stack\PM_133502.cpp" />
     <ClCompile Include="Programmers\Level1\String\PM_131128.cpp" />
@@ -390,6 +390,7 @@
     <ClCompile Include="Programmers\Level1\String\PM_134240.cpp" />
     <ClCompile Include="Programmers\Level1\String\PM_140108.cpp" />
     <ClCompile Include="Programmers\Level1\Sort\PM_135808.cpp" />
+    <ClCompile Include="Programmers\Level2\PM_92341.cpp" />
     <ClCompile Include="Spa_python_with_C\BinarySearch\Prac_Binary_Search.cpp" />
     <ClCompile Include="Spa_python_with_C\BinarySearch\Spa_01.cpp" />
     <ClCompile Include="Spa_python_with_C\BinarySearch\Spa_02.cpp" />
