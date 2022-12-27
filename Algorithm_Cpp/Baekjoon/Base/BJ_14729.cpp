@@ -1,14 +1,29 @@
 //#include<iostream>
+//#include<vector>
+//#include<algorithm>
 //using namespace std;
+//
+//
 //
 //int main() {
 //
-//	string n;
+//	int n;
 //	cin >> n;
+//	vector<double> arr;
 //
+//	for (int i = 0; i < n; i++) {
+//		double temp;
+//		cin >> temp;
+//		arr.push_back(temp);
+//	}
 //
-//	cout << ":fan::fan::fan:\n";
-//	cout << ":fan::"+n+"::fan:\n";
-//	cout << ":fan::fan::fan:\n";
+//	cout << fixed;
+//	cout.precision(3);
+//
+//	sort(arr.begin(), arr.end());
+//	for (int i = 0; i < 7; i++) {
+//		cout << arr[i] << "\n";
+//	}
+//
 //
 //}
