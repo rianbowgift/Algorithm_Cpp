@@ -367,6 +367,8 @@
     <ClCompile Include="Baekjoon\Hash\BJ_25631.cpp" />
     <ClCompile Include="Baekjoon\Hash\BJ_1302.cpp" />
     <ClCompile Include="Programmers\Level0\Base\PM_120820.cpp" />
+    <ClCompile Include="Baekjoon\BJ_2003.cpp" />
+    <ClCompile Include="Baekjoon\Implementation\BJ_3613.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="resource.h" />
