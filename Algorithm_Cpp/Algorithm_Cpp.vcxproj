@@ -376,6 +376,7 @@
     <ClCompile Include="Baekjoon\Math\BJ_2702.cpp" />
     <ClCompile Include="Baekjoon\Failure\BJ_2903.cpp" />
     <ClCompile Include="Baekjoon\Stack\BJ_25918.cpp" />
+    <ClCompile Include="Programmers\Level0\Base\PM_120807.cpp" />
     <ClCompile Include="Programmers\Level0\Base\PM_120824.cpp" />
     <ClCompile Include="Programmers\Level0\Base\PM_120842.cpp" />
     <ClCompile Include="Programmers\Level0\Base\PM_120861.cpp" />
@@ -393,6 +394,7 @@
     <ClCompile Include="Programmers\Level0\Base\PM_120912.cpp" />
     <ClCompile Include="Programmers\Level0\Base\PM_120913.cpp" />
     <ClCompile Include="Programmers\Level0\Base\PM_120922.cpp" />
+    <ClCompile Include="Programmers\Level0\Base\BJ_120817.cpp" />
     <ClCompile Include="Programmers\Level0\Map\PM_120812.cpp" />
     <ClCompile Include="Programmers\Level0\Base\PM_120819.cpp" />
     <ClCompile Include="Programmers\Level0\Base\PM_120820.cpp" />
