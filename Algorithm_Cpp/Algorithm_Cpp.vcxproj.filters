@@ -377,6 +377,8 @@
     <ClCompile Include="Programmers\Level0\Base\PM_120805.cpp" />
     <ClCompile Include="Programmers\Level0\Base\PM_120810.cpp" />
     <ClCompile Include="Programmers\Level0\Base\PM_120806.cpp" />
+    <ClCompile Include="Programmers\Level0\Base\PM_120585.cpp" />
+    <ClCompile Include="Programmers\Level0\Base\PM_120583.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="resource.h" />
