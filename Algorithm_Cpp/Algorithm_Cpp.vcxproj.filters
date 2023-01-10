@@ -356,7 +356,7 @@
     <ClCompile Include="Programmers\Level0\Base\PM_120903.cpp" />
     <ClCompile Include="Programmers\Level0\Base\PM_120892.cpp" />
     <ClCompile Include="Programmers\Level0\Base\PM_120913.cpp" />
-    <ClCompile Include="Baekjoon\BJ_2108.cpp" />
+    <ClCompile Include="Baekjoon\Failure\BJ_2108.cpp" />
     <ClCompile Include="Programmers\Level1\String\PM_147355.cpp" />
     <ClCompile Include="Programmers\Level0\Base\PM_120834.cpp" />
     <ClCompile Include="Programmers\Level0\Base\PM_120898.cpp" />
@@ -367,7 +367,7 @@
     <ClCompile Include="Baekjoon\Hash\BJ_25631.cpp" />
     <ClCompile Include="Baekjoon\Hash\BJ_1302.cpp" />
     <ClCompile Include="Programmers\Level0\Base\PM_120820.cpp" />
-    <ClCompile Include="Baekjoon\BJ_2003.cpp" />
+    <ClCompile Include="Baekjoon\Failure\BJ_2003.cpp" />
     <ClCompile Include="Baekjoon\Implementation\BJ_3613.cpp" />
     <ClCompile Include="Programmers\Level0\Base\PM_120817.cpp" />
     <ClCompile Include="Programmers\Level0\Base\PM_120807.cpp" />
@@ -382,6 +382,10 @@
     <ClCompile Include="Programmers\Level0\Base\PM_120809.cpp" />
     <ClCompile Include="Programmers\Level0\Base\PM_120811.cpp" />
     <ClCompile Include="Programmers\Level1\Implementation\PM_150370.cpp" />
+    <ClCompile Include="Baekjoon\Failure\BJ_1543.cpp" />
+    <ClCompile Include="Baekjoon\Failure\BJ_1057.cpp" />
+    <ClCompile Include="Baekjoon\Implementation\BJ_2960.cpp" />
+    <ClCompile Include="Baekjoon\Failure\BJ_12873.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="resource.h" />
