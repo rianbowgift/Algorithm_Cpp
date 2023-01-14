@@ -28,6 +28,9 @@
 //			if (str[i] != ' ') {
 //				arr[temp_index] += str[i];
 //			}
+//			else if(str[i] == '-') {
+//				arr[temp_index] += str[i];
+//			}
 //			else {
 //				temp_index++;
 //			}
@@ -37,13 +40,13 @@
 //
 //
 //		//2.gcd°Ë»ç
-//		int max = 0;
-//		for (int i = 0; i < temp_index; i++) {
-//			for (int j = i+1; j < temp_index; j++) {
+//		int max = -2147483647;
+//		for (int i = 0; i <= temp_index; i++) {
+//			for (int j = i; j <= temp_index; j++) {
 //				if (i == j) {
 //					continue;
 //				}
-//				if (gcd(stoi(arr[i]), stoi(arr[j]))  > max) {
+//				if (gcd(stoi(arr[i]), stoi(arr[j]))  >= max) {
 //					max = gcd(stoi(arr[i]), stoi(arr[j]));
 //				}
 //			}
