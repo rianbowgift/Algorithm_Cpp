@@ -394,6 +394,7 @@
     <ClCompile Include="Baekjoon\Failure\BJ_2606.cpp" />
     <ClCompile Include="Baekjoon\Implementation\BJ_2578.cpp" />
     <ClCompile Include="Programmers\Level0\Base\PM_120844.cpp" />
+    <ClCompile Include="Programmers\Level0\Base\PM_120831.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="resource.h" />
