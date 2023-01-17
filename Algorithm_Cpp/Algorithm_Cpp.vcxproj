@@ -398,7 +398,9 @@
     <ClCompile Include="Programmers\Level0\Base\PM_120810.cpp" />
     <ClCompile Include="Programmers\Level0\Base\PM_120811.cpp" />
     <ClCompile Include="Programmers\Level0\Base\PM_120813.cpp" />
+    <ClCompile Include="Programmers\Level0\Base\PM_120822.cpp" />
     <ClCompile Include="Programmers\Level0\Base\PM_120824.cpp" />
+    <ClCompile Include="Programmers\Level0\Base\PM_120826.cpp" />
     <ClCompile Include="Programmers\Level0\Base\PM_120831.cpp" />
     <ClCompile Include="Programmers\Level0\Base\PM_120842.cpp" />
     <ClCompile Include="Programmers\Level0\Base\PM_120844.cpp" />
