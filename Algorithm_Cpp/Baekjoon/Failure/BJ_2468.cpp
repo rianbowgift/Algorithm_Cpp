@@ -20,7 +20,7 @@
 //		}
 //	}
 //	cin >> n;
-//	int max = -1;	//반복 최대숫자
+//	int max = 0;	//반복 최대숫자
 //	
 //	for (int i = 0; i < n; i++) {
 //		for (int j = 0; j < n; j++) {
@@ -34,7 +34,7 @@
 //		
 //	}
 //
-//	for (int k = 1; k < max; k++) {
+//	for (int k = 1; k <= max; k++) {
 //		for (int i = 0; i <= 100; i++) {
 //			for (int j = 0; j <= 100; j++) {
 //				vis[i][j] = 0;
@@ -46,10 +46,11 @@
 //		for (int i = 0; i < n; i++) {
 //			for (int j = 0; j < n; j++) {
 //				queue<pair<int, int>> Q;
+//				bool temp_sum = false;
 //				if (vis[i][j] == 0 && board[i][j]  >=1) {
 //
 //					Q.push({ i,j });
-//
+//					temp_sum = true;
 //					while (!Q.empty())
 //					{
 //
@@ -73,28 +74,30 @@
 //							if (board[nx][ny] <= k) {
 //								continue;
 //							}
-//							sum++;
+//							
 //							vis[nx][ny] = 1;
 //							Q.push({ nx,ny });
 //
 //						}
 //
 //					}
-//
+//					
 //
 //				}
-//
+//				if (temp_sum == true) {
+//					arr[k]++;
+//				}
 //
 //			}
 //		}
 //
-//		arr[k] = sum;
+//		
 //
 //	}
 //
 //	sort(arr, arr + max);
 //
-//	cout << arr[max-1];
+//	cout << arr[max - 1];
 //	
 //
 //
