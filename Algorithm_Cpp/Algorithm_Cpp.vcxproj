@@ -188,6 +188,7 @@
     <ClCompile Include="Baekjoon\Base\BJ_15962.cpp" />
     <ClCompile Include="Baekjoon\Base\BJ_15963.cpp" />
     <ClCompile Include="Baekjoon\Base\BJ_15964.cpp" />
+    <ClCompile Include="Baekjoon\Failure\BJ_2372.cpp" />
     <ClCompile Include="Baekjoon\Base\BJ_25784.cpp" />
     <ClCompile Include="Baekjoon\Base\BJ_26082.cpp" />
     <ClCompile Include="Baekjoon\Base\BJ_26209.cpp" />
@@ -272,7 +273,7 @@
     <ClCompile Include="Baekjoon\BinarySearch\BJ_1920.cpp" />
     <ClCompile Include="Baekjoon\BinarySearch\Bj_4158.cpp" />
     <ClCompile Include="Baekjoon\BFS\BJ_1743.cpp" />
-    <ClCompile Include="Baekjoon\BJ_12761.cpp" />
+    <ClCompile Include="Baekjoon\Failure\BJ_12761.cpp" />
     <ClCompile Include="Baekjoon\BFS\BJ_13565.cpp" />
     <ClCompile Include="Baekjoon\Failure\BJ_2468.cpp" />
     <ClCompile Include="Baekjoon\Failure\BJ_10917.cpp" />

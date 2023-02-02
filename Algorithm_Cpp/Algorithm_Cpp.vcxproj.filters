@@ -409,8 +409,9 @@
     <ClCompile Include="Baekjoon\Failure\BJ_10917.cpp" />
     <ClCompile Include="Baekjoon\Failure\BJ_2468.cpp" />
     <ClCompile Include="Baekjoon\BFS\BJ_1743.cpp" />
-    <ClCompile Include="Baekjoon\BJ_12761.cpp" />
+    <ClCompile Include="Baekjoon\Failure\BJ_12761.cpp" />
     <ClCompile Include="Baekjoon\BFS\BJ_13565.cpp" />
+    <ClCompile Include="Baekjoon\Failure\BJ_2372.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="resource.h" />
