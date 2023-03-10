@@ -155,6 +155,7 @@
     <ClCompile Include="Baekjoon\Base\BJ_10103.cpp" />
     <ClCompile Include="Baekjoon\Base\BJ_10156.cpp" />
     <ClCompile Include="Baekjoon\Base\BJ_10170.cpp" />
+    <ClCompile Include="Baekjoon\Base\BJ_10188.cpp" />
     <ClCompile Include="Baekjoon\Base\BJ_10480.cpp" />
     <ClCompile Include="Baekjoon\Base\BJ_10569.cpp" />
     <ClCompile Include="Baekjoon\Base\BJ_10768.cpp" />
