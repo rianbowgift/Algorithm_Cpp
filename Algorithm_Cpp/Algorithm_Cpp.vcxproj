@@ -440,6 +440,7 @@
     <ClCompile Include="Programmers\Level0\Base\PM_120821.cpp" />
     <ClCompile Include="Programmers\Level0\Base\PM_120822.cpp" />
     <ClCompile Include="Programmers\Level0\Base\PM_120824.cpp" />
+    <ClCompile Include="Programmers\Level0\Base\PM_120825.cpp" />
     <ClCompile Include="Programmers\Level0\Base\PM_120826.cpp" />
     <ClCompile Include="Programmers\Level0\Base\PM_120831.cpp" />
     <ClCompile Include="Programmers\Level0\Base\PM_120833.cpp" />
