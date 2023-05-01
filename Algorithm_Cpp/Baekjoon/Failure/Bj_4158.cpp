@@ -12,6 +12,9 @@
 //		int a, b;
 //
 //		cin >> a >> b;
+//		if (a == 0 && b == 0) {
+//			break;
+//		}
 //		int sum = 0;
 //		
 //		for (int i = 0; i < a; i++) {
@@ -28,12 +31,8 @@
 //			}
 //		}
 //
-//		int x, y;
-//		cin >> x >> y;
-//		cout << sum;
-//		if (x == 0 && y == 0) {
-//			break;
-//		}
+//		cout << sum << "\n";
+//
 //
 //		
 //
