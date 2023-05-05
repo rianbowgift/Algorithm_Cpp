@@ -498,6 +498,7 @@
     <ClCompile Include="Programmers\Level0\Base\PM_181847.cpp" />
     <ClCompile Include="Programmers\Level0\Base\PM_181870.cpp" />
     <ClCompile Include="Programmers\Level0\Base\PM_181877.cpp" />
+    <ClCompile Include="Programmers\Level0\Base\PM_181926.cpp" />
     <ClCompile Include="Programmers\Level0\Base\PM_181933.cpp" />
     <ClCompile Include="Programmers\Level0\Base\PM_181937.cpp" />
     <ClCompile Include="Programmers\Level0\Base\PM_181940.cpp" />
@@ -505,6 +506,7 @@
     <ClCompile Include="Programmers\Level0\Base\PM_181946.cpp" />
     <ClCompile Include="Programmers\Level0\Base\PM_181947.cpp" />
     <ClCompile Include="Programmers\Level0\Base\PM_181949.cpp" />
+    <ClCompile Include="Programmers\Level0\Base\PM_181950.cpp" />
     <ClCompile Include="Programmers\Level0\Base\PM_181951.cpp" />
     <ClCompile Include="Programmers\Level0\Base\PM_181952.cpp" />
     <ClCompile Include="Programmers\Level0\Map\PM_120812.cpp" />
