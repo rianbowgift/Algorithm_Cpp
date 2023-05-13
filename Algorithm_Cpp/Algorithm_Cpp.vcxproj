@@ -450,7 +450,9 @@
     <ClCompile Include="Programmers\Level0\Base\BJ_120869.cpp" />
     <ClCompile Include="Programmers\Level0\Base\PM_181927.cpp" />
     <ClCompile Include="Programmers\Level0\Base\PM_181935.cpp" />
+    <ClCompile Include="Programmers\Level0\Base\PM_181936.cpp" />
     <ClCompile Include="Programmers\Level0\Base\PM_181938.cpp" />
+    <ClCompile Include="Programmers\Level0\Base\PM_181942.cpp" />
     <ClCompile Include="Programmers\Level0\Base\PM_181943.cpp" />
     <ClCompile Include="Programmers\Level0\Base\PM_181945.cpp" />
     <ClCompile Include="Programmers\Level0\Base\PM_181948.cpp" />
