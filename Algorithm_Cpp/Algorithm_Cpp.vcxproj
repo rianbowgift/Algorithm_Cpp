@@ -448,6 +448,7 @@
     <ClCompile Include="Baekjoon\Stack\BJ_25918.cpp" />
     <ClCompile Include="Programmers\Level0\Base\BJ_120850.cpp" />
     <ClCompile Include="Programmers\Level0\Base\BJ_120869.cpp" />
+    <ClCompile Include="Programmers\Level0\Base\PM_181835.cpp" />
     <ClCompile Include="Programmers\Level0\Base\PM_181848.cpp" />
     <ClCompile Include="Programmers\Level0\Base\PM_181861.cpp" />
     <ClCompile Include="Programmers\Level0\Base\PM_181863.cpp" />
@@ -463,6 +464,7 @@
     <ClCompile Include="Programmers\Level0\Base\PM_181886.cpp" />
     <ClCompile Include="Programmers\Level0\Base\PM_181887.cpp" />
     <ClCompile Include="Programmers\Level0\Base\PM_181891.cpp" />
+    <ClCompile Include="Programmers\Level0\Base\PM_181892.cpp" />
     <ClCompile Include="Programmers\Level0\Base\PM_181896.cpp" />
     <ClCompile Include="Programmers\Level0\Base\PM_181900.cpp" />
     <ClCompile Include="Programmers\Level0\Base\PM_181901.cpp" />
