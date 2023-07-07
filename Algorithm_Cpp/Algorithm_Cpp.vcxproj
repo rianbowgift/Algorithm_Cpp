@@ -497,6 +497,7 @@
     <ClCompile Include="Programmers\Level0\Base\PM_181914.cpp" />
     <ClCompile Include="Programmers\Level0\Base\PM_181915.cpp" />
     <ClCompile Include="Programmers\Level0\Base\PM_181920.cpp" />
+    <ClCompile Include="Programmers\Level0\Base\PM_181924.cpp" />
     <ClCompile Include="Programmers\Level0\Base\PM_181927.cpp" />
     <ClCompile Include="Programmers\Level0\Base\PM_181928.cpp" />
     <ClCompile Include="Programmers\Level0\Base\PM_181930.cpp" />
